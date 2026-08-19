@@ -1,53 +1,7 @@
 {
-  "items": [
-    {
-      "description": "Unlike local keypoint descriptor depends on keypoint, some works try to get the whole dense descriptor representation.",
-      "items": [],
-      "title": "3.5. Dense descriptor"
-    },
-    {
-      "description": "One single representation from the image.",
-      "items": [],
-      "title": "2. Real-valued descriptor"
-    },
-    {
-      "description": "For more compact representation, a binary descriptor can be generated from hashing or thresholding. Quantization is also very popular in large-scale image retrieval.",
-      "items": [],
-      "title": "3. Binary descriptor and quantization"
-    },
-    {
-      "description": "Anything can boost the performance in the pre/post-processing stage such as rectification/re-ranking/query expansion.",
-      "items": [],
-      "title": "4. Pre-processing/Post-processing"
-    },
-    {
-      "description": "Some works try to cover both local descriptor and global retrieval due to the shared similarity about the activation and the applications.",
-      "items": [],
-      "title": "5. 3d point cloud"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Local matching"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Global retrieval"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Localization (both local matching and global retrieval)"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Toolbox"
-    }
-  ],
+  "items": [],
   "metadata": {
-    "last_updated": "2026-08-18T07:07:32.222Z",
+    "last_updated": "2026-08-19T07:08:34.368Z",
     "original_repository": "shamangary/awesome-local-global-descriptor",
     "original_repository_sha": "1be64100f8cdba99e60cd0ee8385bc7085223c96",
     "enhanced_repository": "enhansome/enhansome-local-global-descriptor",
