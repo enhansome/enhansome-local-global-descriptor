@@ -40,7 +40,7 @@ This subsection includes the review about keypoint detection and it's orientatio
 
 | Year      | Paper                                                                                    | Link                                                                                                                                                              | Code                                                                                                              |
 | --------- | ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-| \[CVPR20] | Holistically-Attracted Wireframe Parsing                                                 | [arXiv](https://arxiv.org/pdf/2003.01663.pdf)                                                                                                                     | [github](https://github.com/cherubicXN/hawp) ⭐ 375 \| 🐛 21 \| 🌐 Python \| 📅 2024-02-26                         |
+| \[CVPR20] | Holistically-Attracted Wireframe Parsing                                                 | [arXiv](https://arxiv.org/pdf/2003.01663.pdf)                                                                                                                     | [github](https://github.com/cherubicXN/hawp) ⭐ 374 \| 🐛 21 \| 🌐 Python \| 📅 2024-02-26                         |
 | \[CVPR20] | KeyPose: Multi-View 3D Labeling and Keypoint Estimation for Transparent Objects          | [arXiv](https://arxiv.org/abs/1912.02805)                                                                                                                         | [link](https://sites.google.com/view/keypose/)                                                                    |
 | \[3DV19]  | SIPs: Succinct Interest Points from Unsupervised Inlierness Probability Learning         | [arXiv](https://arxiv.org/abs/1805.01358)                                                                                                                         | [Github](https://github.com/uzh-rpg/sips2_open) ⭐ 38 \| 🐛 1 \| 🌐 Python \| 📅 2019-08-19                        |
 | \[ICCV19] | Key.Net: Keypoint Detection by Handcrafted and Learned CNN Filters                       | [PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Barroso-Laguna_Key.Net_Keypoint_Detection_by_Handcrafted_and_Learned_CNN_Filters_ICCV_2019_paper.pdf) | [Github](https://github.com/axelBarroso/Key.Net) ⭐ 211 \| 🐛 2 \| 🌐 Python \| 📅 2021-12-08                      |
@@ -346,8 +346,8 @@ Some works try to cover both local descriptor and global retrieval due to the sh
 | ------- | -------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
 | \[2020] | Kapture                                      | [github](https://github.com/naver/kapture) ⭐ 542 \| 🐛 0 \| 🌐 Python \| 📅 2026-04-17                     |
 | \[2020] | hloc - the hierarchical localization toolbox | [github](https://github.com/cvg/Hierarchical-Localization) ⭐ 4,187 \| 🐛 162 \| 🌐 Python \| 📅 2025-12-10 |
-| \[2020] | pyslamv2                                     | [github](https://github.com/luigifreda/pyslam) ⭐ 3,400 \| 🐛 3 \| 🌐 Python \| 📅 2026-08-01               |
+| \[2020] | pyslamv2                                     | [github](https://github.com/luigifreda/pyslam) ⭐ 3,400 \| 🐛 1 \| 🌐 Python \| 📅 2026-08-23               |
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
