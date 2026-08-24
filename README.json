@@ -1,7 +1,1318 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": "In this section, I focus on the review about the sparse keypoint matching and it's pipeline.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[CVPR20]",
+              "description": "Holistically-Attracted Wireframe Parsing arXiv github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 247752803,
+                "language": "Python",
+                "last_commit": "2024-02-26T03:46:40Z",
+                "owner": "cherubicXN",
+                "repo": "hawp",
+                "stars": 374
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[3DV19]",
+              "description": "SIPs: Succinct Interest Points from Unsupervised Inlierness Probability Learning arXiv Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 202758779,
+                "language": "Python",
+                "last_commit": "2019-08-19T13:58:51Z",
+                "owner": "uzh-rpg",
+                "repo": "sips2_open",
+                "stars": 38
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[ICCV19]",
+              "description": "Key.Net: Keypoint Detection by Handcrafted and Learned CNN Filters PDF Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 200879324,
+                "language": "Python",
+                "last_commit": "2021-12-08T22:39:43Z",
+                "owner": "axelBarroso",
+                "repo": "Key.Net",
+                "stars": 211
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[ECCV18]",
+              "description": "Repeatability Is Not Enough: Learning Discriminative Affine Regions via Discriminability arXiv Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 111140917,
+                "language": "Python",
+                "last_commit": "2025-04-14T11:16:20Z",
+                "owner": "ducha-aiki",
+                "repo": "affnet",
+                "stars": 278
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[CVPR17]",
+              "description": "Learning Discriminative and Transformation Covariant Local Feature Detectors PDF Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 86383845,
+                "language": "Matlab",
+                "last_commit": "2017-09-08T16:14:17Z",
+                "owner": "ColumbiaDVMM",
+                "repo": "Transform_Covariant_Detector",
+                "stars": 36
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[CVPR16]",
+              "description": "Learning to Assign Orientations to Feature Poitns - Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 62799107,
+                "language": "Python",
+                "last_commit": "2017-11-18T09:00:57Z",
+                "owner": "vcg-uvic",
+                "repo": "learn-orientation",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[CVPR15]",
+              "description": "TILDE: a Temporally Invariant Learned DEtector arXiv Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35891724,
+                "language": "MATLAB",
+                "last_commit": "2020-01-06T21:19:22Z",
+                "owner": "vcg-uvic",
+                "repo": "TILDE",
+                "stars": 50
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[ECCV20]",
+              "description": "DH3D: Deep Hierarchical 3D Descriptors for Robust Large-Scale 6DoF Relocalization link github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 289491888,
+                "language": "Python",
+                "last_commit": "2020-11-11T19:15:06Z",
+                "owner": "JuanDuGit",
+                "repo": "DH3D",
+                "stars": 160
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[ICCV19]",
+              "description": "USIP: Unsupervised Stable Interest Point Detection from 3D Point Clouds arXiv Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 178560141,
+                "language": "Python",
+                "last_commit": "2019-10-27T12:54:54Z",
+                "owner": "lijx10",
+                "repo": "USIP",
+                "stars": 221
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[arXiv19]",
+              "description": "Self-Supervised 3D Keypoint Learning for Ego-motion Estimation arXiv Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 226418941,
+                "language": "Python",
+                "last_commit": "2021-03-27T22:28:31Z",
+                "owner": "TRI-ML",
+                "repo": "KP3D",
+                "stars": 242
+              }
+            }
+          ],
+          "description": "This subsection includes the review about keypoint detection and it's orientation, scale, or affine transformation estimation.",
+          "node_type": "group",
+          "title": "1. Keypoint detection"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[CVPR16]",
+              "description": "Accumulated Stability Voting: A Robust Descriptor from Descriptors of Multiple Scales PDF Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 55386867,
+                "language": "C",
+                "last_commit": "2016-04-21T09:26:49Z",
+                "owner": "shamangary",
+                "repo": "ASV",
+                "stars": 27
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[CVPR15]",
+              "description": "BOLD - Binary Online Learned Descriptor For Efficient Image Matching PDF Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 36684784,
+                "language": "C++",
+                "last_commit": "2017-04-03T11:45:50Z",
+                "owner": "vbalnt",
+                "repo": "bold",
+                "stars": 32
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[IJCV04]",
+              "description": "Distinctive image features from scale-invariant keypoints - Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 89869120,
+                "language": "Jupyter Notebook",
+                "last_commit": "2019-08-22T10:44:48Z",
+                "owner": "ducha-aiki",
+                "repo": "pytorch-sift",
+                "stars": 173
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[TIP19]",
+              "description": "Learning Local Descriptors by Optimizing the Keypoint-Correspondence Criterion: Applications to Face Matching, Learning from Unlabeled Videos and 3D-Shape Retrieval arXiv Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 51770279,
+                "language": "TeX",
+                "last_commit": "2025-07-20T13:49:58Z",
+                "owner": "nenadmarkus",
+                "repo": "wlrn",
+                "stars": 28
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[CVPR19]",
+              "description": "SOSNet: Second Order Similarity Regularization for Local Descriptor Learning arXiv,Page Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 180540517,
+                "language": "Jupyter Notebook",
+                "last_commit": "2019-06-20T20:28:23Z",
+                "owner": "scape-research",
+                "repo": "SOSNet",
+                "stars": 139
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[ECCV18]",
+              "description": "GeoDesc: Learning Local Descriptors by Integrating Geometry Constraints - Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 140368658,
+                "language": "Python",
+                "last_commit": "2021-06-06T03:51:39Z",
+                "owner": "lzx551402",
+                "repo": "geodesc",
+                "stars": 193
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[NIPS17]",
+              "description": "Working hard to know your neighbor's margins: Local descriptor learning loss arXiv Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 92769355,
+                "language": "Python",
+                "last_commit": "2025-04-14T11:10:14Z",
+                "owner": "DagnyT",
+                "repo": "hardnet",
+                "stars": 534
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[ICCV17]",
+              "description": "DeepCD: Learning Deep Complementary Descriptors for Patch Representations PDF Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 97784265,
+                "language": "Lua",
+                "last_commit": "2018-01-24T10:48:33Z",
+                "owner": "shamangary",
+                "repo": "DeepCD",
+                "stars": 40
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[CVPR17]",
+              "description": "L2-Net: Deep Learning of Discriminative Patch Descriptor in Euclidean Space PDF Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 84391513,
+                "language": "Matlab",
+                "last_commit": "2017-11-27T09:35:44Z",
+                "owner": "yuruntian",
+                "repo": "L2-Net",
+                "stars": 112
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[arXiv16]",
+              "description": "PN-Net: Conjoined Triple Deep Network for Learning Local Image Descriptors arXiv Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 49972499,
+                "language": "Lua",
+                "last_commit": "2016-09-21T14:15:09Z",
+                "owner": "vbalnt",
+                "repo": "pnnet",
+                "stars": 55
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[BMVC16]",
+              "description": "Learning local feature descriptors with triplets and shallow convolutional neural networks PDF Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 68822672,
+                "language": "Jupyter Notebook",
+                "last_commit": "2021-01-16T11:26:01Z",
+                "owner": "vbalnt",
+                "repo": "tfeat",
+                "stars": 150
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[ICCV15]",
+              "description": "Discriminative Learning of Deep Convolutional Feature Point Descriptors Page Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 43056056,
+                "language": "Lua",
+                "last_commit": "2016-02-26T04:00:12Z",
+                "owner": "etrulls",
+                "repo": "deepdesc-release",
+                "stars": 121
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[CVPR15]",
+              "description": "Learning to compare image patches via convolutional neural networks PDF Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 36528727,
+                "language": "C++",
+                "last_commit": "2019-08-05T17:01:41Z",
+                "owner": "szagoruyko",
+                "repo": "cvpr15deepcompare",
+                "stars": 472
+              }
+            }
+          ],
+          "description": "In the last few decades, people focus on the patch descriptor",
+          "node_type": "group",
+          "title": "2. Keypoint description (local descriptor)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[arXiv20]",
+              "description": "Efficient Neighbourhood Consensus Networks via Submanifold Sparse Convolutions arXiv github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 256492019,
+                "language": "Python",
+                "last_commit": "2020-07-04T23:21:30Z",
+                "owner": "ignacio-rocco",
+                "repo": "sparse-ncnet",
+                "stars": 155
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[CVPR20]",
+              "description": "ASLFeat: Learning Local Features of Accurate Shape and Localization arXiv github,tfmatch",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 239956153,
+                "language": "Python",
+                "last_commit": "2023-04-12T14:36:04Z",
+                "owner": "lzx551402",
+                "repo": "ASLFeat",
+                "stars": 316
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[WACV19]",
+              "description": "DGC-Net: Dense Geometric Correspondence Network arXiv github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 156848841,
+                "language": "Jupyter Notebook",
+                "last_commit": "2021-10-12T22:55:47Z",
+                "owner": "AaltoVision",
+                "repo": "DGC-Net",
+                "stars": 206
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[NIPS19]",
+              "description": "R2D2: Repeatable and Reliable Detector and Descriptor arXiv,Page Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 216446495,
+                "language": "Python",
+                "last_commit": "2023-12-17T18:50:23Z",
+                "owner": "naver",
+                "repo": "r2d2",
+                "stars": 522
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[ICCV19]",
+              "description": "ELF: Embedded Localisation of Features in Pre-Trained CNN PDF Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 200876943,
+                "language": "Python",
+                "last_commit": "2022-11-21T21:11:30Z",
+                "owner": "abenbihi",
+                "repo": "elf",
+                "stars": 28
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[CVPR19]",
+              "description": "RF-Net: An End-to-End Image Matching Network based on Receptive Field arXiv Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 190498944,
+                "language": "Python",
+                "last_commit": "2021-10-12T22:52:06Z",
+                "owner": "xuelunshen",
+                "repo": "rfnet",
+                "stars": 136
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[CVPR19]",
+              "description": "D2-Net: A Trainable CNN for Joint Description and Detection of Local Features arXiv,Page Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 179720496,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-04-08T08:16:22Z",
+                "owner": "mihaidusmanu",
+                "repo": "d2-net",
+                "stars": 847
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[BMVC19]",
+              "description": "Matching Features without Descriptors: Implicitly Matched Interest Points PDF github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 198441445,
+                "language": "Python",
+                "last_commit": "2019-08-19T13:47:52Z",
+                "owner": "uzh-rpg",
+                "repo": "imips_open",
+                "stars": 73
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[CVPRW18]",
+              "description": "SuperPoint: Self-Supervised Interest Point Detection and Description arXiv Github,3rd_party",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 123953638,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-05-05T06:57:01Z",
+                "owner": "rpautrat",
+                "repo": "SuperPoint",
+                "stars": 2510
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[NIPS18]",
+              "description": "LF-Net: Learning Local Features from Images PDF Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 142556595,
+                "language": "Python",
+                "last_commit": "2022-11-21T21:10:46Z",
+                "owner": "vcg-uvic",
+                "repo": "lf-net-release",
+                "stars": 320
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[ECCV16]",
+              "description": "LIFT: Learned Invariant Feature Points - Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 63952900,
+                "language": "Python",
+                "last_commit": "2017-11-06T13:55:43Z",
+                "owner": "cvlab-epfl",
+                "repo": "LIFT",
+                "stars": 494
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[CVPR20]",
+              "description": "D3Feat: Joint Learning of Dense Detection and Description of 3D Local Features arXiv github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 266340474,
+                "language": "Python",
+                "last_commit": "2022-09-08T03:37:28Z",
+                "owner": "XuyangBai",
+                "repo": "D3Feat.pytorch",
+                "stars": 156
+              }
+            }
+          ],
+          "description": "Recently, more and more papers try to embed the whole matching pipeline (keypoint detection, keypoint description) into one framework.",
+          "node_type": "group",
+          "title": "3. End-to-end matching pipeline"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[ICRA20]",
+              "description": "GN-Net: The Gauss-Newton Loss for Multi-Weather Relocalization arXiv, MyNote Web",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 224772470,
+                "language": null,
+                "last_commit": "2020-10-21T14:47:27Z",
+                "owner": "shamangary",
+                "repo": "awesome-local-global-descriptor",
+                "stars": 650
+              }
+            }
+          ],
+          "description": "Unlike local keypoint descriptor depends on keypoint, some works try to get the whole dense descriptor representation.",
+          "node_type": "group",
+          "title": "3.5. Dense descriptor"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[ECCV20]",
+              "description": "Making Affine Correspondences Work in Camera Geometry Computation arXiv github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 278592167,
+                "language": "C",
+                "last_commit": "2022-07-04T08:57:16Z",
+                "owner": "danini",
+                "repo": "affine-correspondences-for-camera-geometry",
+                "stars": 43
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[arXiv20]",
+              "description": "AdaLAM: Revisiting Handcrafted Outlier Detection arXiv github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 274083837,
+                "language": "Python",
+                "last_commit": "2022-09-05T10:47:56Z",
+                "owner": "cavalli1234",
+                "repo": "AdaLAM",
+                "stars": 333
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[CVPR19]",
+              "description": "MAGSAC: Marginalizing Sample Consensus PDF Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 178883364,
+                "language": "C++",
+                "last_commit": "2026-03-09T20:31:00Z",
+                "owner": "danini",
+                "repo": "magsac",
+                "stars": 502
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[CVPR05]",
+              "description": "Two-View Geometry Estimation Unaffected by a Dominant Plane PDF Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 201058804,
+                "language": "C++",
+                "last_commit": "2020-04-24T15:48:34Z",
+                "owner": "ducha-aiki",
+                "repo": "pyransac",
+                "stars": 90
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[ECCV20]",
+              "description": "Online Invariance Selection for Local Feature Descriptors arXiv github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 279563454,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-04-01T14:45:47Z",
+                "owner": "rpautrat",
+                "repo": "LISRD",
+                "stars": 260
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[CVPR20]",
+              "description": "SuperGlue: Learning Feature Matching with Graph Neural Networks arXiv Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 248056757,
+                "language": "Python",
+                "last_commit": "2024-08-30T23:50:47Z",
+                "owner": "magicleap",
+                "repo": "SuperGluePretrainedNetwork",
+                "stars": 4069
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[CVPR20]",
+              "description": "ACNe: Attentive Context Normalization for Robust Permutation-Equivariant Learning arXiv github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 250626193,
+                "language": "Python",
+                "last_commit": "2020-07-21T16:15:11Z",
+                "owner": "vcg-uvic",
+                "repo": "acne",
+                "stars": 55
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[arXiv20]",
+              "description": "RANSAC-Flow: generic two-stage image alignment arXiv, youtube page,Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 250037527,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-05-14T03:47:43Z",
+                "owner": "XiSHEN0220",
+                "repo": "RANSAC-Flow",
+                "stars": 451
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[ICCV19]",
+              "description": "NG-RANSAC for Epipolar Geometry from Sparse Correspondences arXiv Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 208760208,
+                "language": "Python",
+                "last_commit": "2021-11-03T10:44:15Z",
+                "owner": "vislearn",
+                "repo": "ngransac",
+                "stars": 339
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[ICCV19]",
+              "description": "Learning Two-View Correspondences and Geometry Using Order-Aware Network arXiv Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 202188095,
+                "language": "Python",
+                "last_commit": "2023-04-10T11:53:58Z",
+                "owner": "zjhthu",
+                "repo": "OANet",
+                "stars": 272
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[CVPR18]",
+              "description": "Learning to Find Good Correspondences - Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 129787818,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-11-21T22:20:46Z",
+                "owner": "vcg-uvic",
+                "repo": "learned-correspondence-release",
+                "stars": 260
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[Access18]",
+              "description": "Multi-Temporal Remote Sensing Image Registration Using Deep Convolutional Features PDF Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 121105981,
+                "language": "Python",
+                "last_commit": "2020-12-28T10:00:45Z",
+                "owner": "inrainbws",
+                "repo": "cnn-registration",
+                "stars": 459
+              }
+            }
+          ],
+          "description": "After the matching, standard RANSAC and it's variants are usually adopted for outlier removal.",
+          "node_type": "group",
+          "title": "4. Geometric verification or learning based matcher"
+        }
+      ],
+      "title": "Local matching pipeline"
+    },
+    {
+      "description": "Consider global retrieval usually targets on a lot of candidates, there are several way to generate one single description for one image.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[ICCV13] [IJCV15]",
+              "description": "To aggregate or not to aggregate: Selective match kernels for image search Image search with selective match kernels: aggregation across single and multiple images ICCV IJCV Official : matlab, from DELF (tensorflow)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 163888132,
+                "language": "MATLAB",
+                "last_commit": "2025-10-16T12:38:51Z",
+                "owner": "gtolias",
+                "repo": "asmk",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[CVPR16]",
+              "description": "NetVLAD: CNN architecture for weakly supervised place recognition Page Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 46722247,
+                "language": "Matlab",
+                "last_commit": "2017-07-22T17:41:15Z",
+                "owner": "Relja",
+                "repo": "netvlad",
+                "stars": 610
+              }
+            }
+          ],
+          "description": "When there is only hand-crafted local descriptors, people usually uses feature aggregation from a set of local descriptors and output a single description.\nSimilar idea but use deep learning to adapt classical algorithm",
+          "node_type": "group",
+          "title": "1. Feature aggregation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[ECCV20]",
+              "description": "Learning and aggregating deep local descriptors for instance-level recognition arXiv github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 279616011,
+                "language": "Python",
+                "last_commit": "2024-07-25T10:57:51Z",
+                "owner": "gtolias",
+                "repo": "how",
+                "stars": 95
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[ECCV20]",
+              "description": "Predicting Visual Overlap of Images Through Interpretable Non-Metric Box Embeddings arXiv github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 284953808,
+                "language": "Jupyter Notebook",
+                "last_commit": "2020-09-24T10:39:28Z",
+                "owner": "nianticlabs",
+                "repo": "image-box-overlap",
+                "stars": 61
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[ECCV20]",
+              "description": "Smooth-AP: Smoothing the Path Towards Large-Scale Image Retrieval arXiv github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 279593547,
+                "language": "Python",
+                "last_commit": "2021-04-01T15:23:27Z",
+                "owner": "Andrew-Brown1",
+                "repo": "Smooth_AP",
+                "stars": 202
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[ICCV19]",
+              "description": "Learning with Average Precision: Training Image Retrieval with a Listwise Loss arXiv Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 192671738,
+                "language": "Python",
+                "last_commit": "2021-05-19T09:07:28Z",
+                "owner": "naver",
+                "repo": "deep-image-retrieval",
+                "stars": 680
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[CVPR19]",
+              "description": "Detect-to-Retrieve: Efficient Regional Aggregation for Image Search PDF Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 51117837,
+                "language": "Python",
+                "last_commit": "2026-08-21T16:27:30Z",
+                "owner": "tensorflow",
+                "repo": "models",
+                "stars": 77648
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[TPAMI18]",
+              "description": "Fine-tuning CNN Image Retrieval with No Human Annotation arXiv Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 131194654,
+                "language": "Python",
+                "last_commit": "2024-05-13T13:12:43Z",
+                "owner": "filipradenovic",
+                "repo": "cnnimageretrieval-pytorch",
+                "stars": 1495
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[IJCV17]",
+              "description": "End-to-end Learning of Deep Visual Representations for Image Retrieval arXiv Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 192671738,
+                "language": "Python",
+                "last_commit": "2021-05-19T09:07:28Z",
+                "owner": "naver",
+                "repo": "deep-image-retrieval",
+                "stars": 680
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[ICCV17]",
+              "description": "Large-Scale Image Retrieval with Attentive Deep Local Features - Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 51117837,
+                "language": "Python",
+                "last_commit": "2026-08-21T16:27:30Z",
+                "owner": "tensorflow",
+                "repo": "models",
+                "stars": 77648
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[ECCV16]",
+              "description": "CNN Image Retrieval Learns from BoW: Unsupervised Fine-Tuning with Hard Examples arXiv Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 131194654,
+                "language": "Python",
+                "last_commit": "2024-05-13T13:12:43Z",
+                "owner": "filipradenovic",
+                "repo": "cnnimageretrieval-pytorch",
+                "stars": 1495
+              }
+            }
+          ],
+          "description": "One single representation from the image.",
+          "node_type": "group",
+          "title": "2. Real-valued descriptor"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[ICCVW19]",
+              "description": "DAME WEB: DynAmic MEan with Whitening Ensemble Binarization for Landmark Retrieval without Human Annotation PDF Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 229281793,
+                "language": "Python",
+                "last_commit": "2019-12-20T14:42:51Z",
+                "owner": "scape-research",
+                "repo": "DAME-WEB",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[CVPR19]",
+              "description": "FastAP: Deep Metric Learning to Rank PDF Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 190536631,
+                "language": "MATLAB",
+                "last_commit": "2021-09-21T01:48:46Z",
+                "owner": "kunhe",
+                "repo": "FastAP-metric-learning",
+                "stars": 97
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[CVPR18]",
+              "description": "Hashing as Tie-Aware Learning to Rank PDF Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 137269433,
+                "language": "MATLAB",
+                "last_commit": "2021-09-21T01:46:54Z",
+                "owner": "kunhe",
+                "repo": "TALR",
+                "stars": 46
+              }
+            }
+          ],
+          "description": "For more compact representation, a binary descriptor can be generated from hashing or thresholding. Quantization is also very popular in large-scale image retrieval.",
+          "node_type": "group",
+          "title": "3. Binary descriptor and quantization"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[ECCV20]",
+              "description": "Single-Image Depth Prediction Makes Feature Matching Easier arXiv github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 284974048,
+                "language": null,
+                "last_commit": "2021-05-11T12:36:39Z",
+                "owner": "nianticlabs",
+                "repo": "rectified-features",
+                "stars": 65
+              }
+            }
+          ],
+          "description": "Anything can boost the performance in the pre/post-processing stage such as rectification/re-ranking/query expansion.",
+          "node_type": "group",
+          "title": "4. Pre-processing/Post-processing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[CVPR18]",
+              "description": "PointNetVLAD: Deep Point Cloud Based Retrieval for Large-Scale Place Recognition arXiv Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 125535567,
+                "language": "Python",
+                "last_commit": "2020-01-19T19:13:28Z",
+                "owner": "mikacuy",
+                "repo": "pointnetvlad",
+                "stars": 400
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "5. 3d point cloud"
+        }
+      ],
+      "title": "Global retrieval"
+    },
+    {
+      "description": "Some works try to cover both local descriptor and global retrieval due to the shared similarity about the activation and the applications.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[CVPR19]",
+          "description": "ContextDesc: Local Descriptor Augmentation with Cross-Modality Context - Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 175433852,
+            "language": "Python",
+            "last_commit": "2023-04-12T14:42:36Z",
+            "owner": "lzx551402",
+            "repo": "contextdesc",
+            "stars": 229
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CVPR19]",
+          "description": "From Coarse to Fine: Robust Hierarchical Localization at Large Scale with HF-Net arXiv Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 170833341,
+            "language": "Python",
+            "last_commit": "2024-07-25T10:13:41Z",
+            "owner": "ethz-asl",
+            "repo": "hfnet",
+            "stars": 878
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[ICCV17]",
+          "description": "Large-Scale Image Retrieval with Attentive Deep Local Features (DELF) - Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 51117837,
+            "language": "Python",
+            "last_commit": "2026-08-21T16:27:30Z",
+            "owner": "tensorflow",
+            "repo": "models",
+            "stars": 77648
+          }
+        }
+      ],
+      "title": "Multi-tasking local and global descriptors"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[CVPR20]",
+          "description": "Fast-MVSNet: Sparse-to-Dense Multi-View Stereo With Learned Propagation and Gauss-Newton Refinement arXiv github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 251052210,
+            "language": "Python",
+            "last_commit": "2020-03-31T01:36:11Z",
+            "owner": "svip-lab",
+            "repo": "FastMVSNet",
+            "stars": 258
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CVPR20]",
+          "description": "BlendedMVS: A Large-scale Dataset for Generalized Multi-view Stereo Networks arXiv github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 223414731,
+            "language": null,
+            "last_commit": "2025-09-08T02:21:12Z",
+            "owner": "YoYo000",
+            "repo": "BlendedMVS",
+            "stars": 684
+          }
+        }
+      ],
+      "title": "MVS"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[CVPR20]",
+          "description": "BlendedMVS: A Large-scale Dataset for Generalized Multi-view Stereo Networks arXiv github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 223414731,
+            "language": null,
+            "last_commit": "2025-09-08T02:21:12Z",
+            "owner": "YoYo000",
+            "repo": "BlendedMVS",
+            "stars": 684
+          }
+        }
+      ],
+      "title": "View Synthesis/Novel view/Image completion"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[ICCV19]",
+          "description": "Fine-Grained Segmentation Networks: Self-Supervised Segmentation for Improved Long-Term Visual Localization arXiv github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 202103507,
+            "language": "Python",
+            "last_commit": "2024-07-25T10:16:39Z",
+            "owner": "maunzzz",
+            "repo": "fine-grained-segmentation-networks",
+            "stars": 84
+          }
+        }
+      ],
+      "title": "Segmentation localization"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[arXiv2020]",
+              "description": "Image Matching across Wide Baselines: From Paper to Practice arXiv github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 292168426,
+                "language": "Jupyter Notebook",
+                "last_commit": "2020-10-13T03:33:11Z",
+                "owner": "vcg-uvic",
+                "repo": "image-matching-benchmark",
+                "stars": 105
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Local matching"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[CVPR18]",
+              "description": "Revisiting Oxford and Paris: Large-Scale Image Retrieval Benchmarking Page Github ROxford5k, RParis6k",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 129274783,
+                "language": "Python",
+                "last_commit": "2022-06-02T18:55:53Z",
+                "owner": "filipradenovic",
+                "repo": "revisitop",
+                "stars": 271
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Global retrieval"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[ECCV20]",
+              "description": "Map-based Localization for Autonomous Driving web github1, github2 -",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 261983604,
+                "language": null,
+                "last_commit": "2020-05-15T08:15:57Z",
+                "owner": "pmwenzel",
+                "repo": "mlad-eccv2020",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[CVPR18]",
+              "description": "Benchmarking 6DOF Outdoor Visual Localization in Changing Conditions PDF,Page Github Aachen-day-night, Robotcar, CMU-seasons",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 173990960,
+                "language": "Python",
+                "last_commit": "2020-08-12T07:03:03Z",
+                "owner": "tsattler",
+                "repo": "visuallocalizationbenchmark",
+                "stars": 356
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Localization (both local matching and global retrieval)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[2020]",
+              "description": "Kapture github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 275164995,
+                "language": "Python",
+                "last_commit": "2026-04-17T09:46:26Z",
+                "owner": "naver",
+                "repo": "kapture",
+                "stars": 542
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[2020]",
+              "description": "hloc - the hierarchical localization toolbox github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 280084324,
+                "language": "Python",
+                "last_commit": "2025-12-10T10:00:19Z",
+                "owner": "cvg",
+                "repo": "Hierarchical-Localization",
+                "stars": 4188
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[2020]",
+              "description": "pyslamv2 github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 179858671,
+                "language": "Python",
+                "last_commit": "2026-08-23T07:25:36Z",
+                "owner": "luigifreda",
+                "repo": "pyslam",
+                "stars": 3401
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Toolbox"
+        }
+      ],
+      "title": "Benchmarks"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T07:31:18.743Z",
+    "last_updated": "2026-08-24T14:19:45.262Z",
     "original_repository": "shamangary/awesome-local-global-descriptor",
     "original_repository_id": 224772470,
     "original_repository_sha": "1be64100f8cdba99e60cd0ee8385bc7085223c96",
