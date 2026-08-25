@@ -496,7 +496,7 @@
                 "last_commit": "2025-05-05T06:57:01Z",
                 "owner": "rpautrat",
                 "repo": "SuperPoint",
-                "stars": 2510
+                "stars": 2511
               }
             },
             {
@@ -660,7 +660,7 @@
                 "last_commit": "2024-08-30T23:50:47Z",
                 "owner": "magicleap",
                 "repo": "SuperGluePretrainedNetwork",
-                "stars": 4069
+                "stars": 4070
               }
             },
             {
@@ -1312,7 +1312,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:13:13.323Z",
+    "last_updated": "2026-08-25T07:11:11.398Z",
     "original_repository": "shamangary/awesome-local-global-descriptor",
     "original_repository_id": 224772470,
     "original_repository_sha": "1be64100f8cdba99e60cd0ee8385bc7085223c96",
