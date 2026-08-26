@@ -660,7 +660,7 @@
                 "last_commit": "2024-08-30T23:50:47Z",
                 "owner": "magicleap",
                 "repo": "SuperGluePretrainedNetwork",
-                "stars": 4070
+                "stars": 4072
               }
             },
             {
@@ -872,10 +872,10 @@
                 "archived": false,
                 "id": 51117837,
                 "language": "Python",
-                "last_commit": "2026-08-21T16:27:30Z",
+                "last_commit": "2026-08-25T21:25:59Z",
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77648
+                "stars": 77652
               }
             },
             {
@@ -917,10 +917,10 @@
                 "archived": false,
                 "id": 51117837,
                 "language": "Python",
-                "last_commit": "2026-08-21T16:27:30Z",
+                "last_commit": "2026-08-25T21:25:59Z",
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77648
+                "stars": 77652
               }
             },
             {
@@ -1084,10 +1084,10 @@
             "archived": false,
             "id": 51117837,
             "language": "Python",
-            "last_commit": "2026-08-21T16:27:30Z",
+            "last_commit": "2026-08-25T21:25:59Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77648
+            "stars": 77652
           }
         }
       ],
@@ -1123,7 +1123,7 @@
             "last_commit": "2025-09-08T02:21:12Z",
             "owner": "YoYo000",
             "repo": "BlendedMVS",
-            "stars": 684
+            "stars": 685
           }
         }
       ],
@@ -1144,7 +1144,7 @@
             "last_commit": "2025-09-08T02:21:12Z",
             "owner": "YoYo000",
             "repo": "BlendedMVS",
-            "stars": 684
+            "stars": 685
           }
         }
       ],
@@ -1284,7 +1284,7 @@
                 "last_commit": "2025-12-10T10:00:19Z",
                 "owner": "cvg",
                 "repo": "Hierarchical-Localization",
-                "stars": 4189
+                "stars": 4192
               }
             },
             {
@@ -1312,7 +1312,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T07:11:11.398Z",
+    "last_updated": "2026-08-26T07:11:32.358Z",
     "original_repository": "shamangary/awesome-local-global-descriptor",
     "original_repository_id": 224772470,
     "original_repository_sha": "1be64100f8cdba99e60cd0ee8385bc7085223c96",
