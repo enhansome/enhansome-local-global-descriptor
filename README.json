@@ -875,7 +875,7 @@
                 "last_commit": "2026-08-27T04:28:47Z",
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77653
+                "stars": 77654
               }
             },
             {
@@ -890,7 +890,7 @@
                 "last_commit": "2024-05-13T13:12:43Z",
                 "owner": "filipradenovic",
                 "repo": "cnnimageretrieval-pytorch",
-                "stars": 1495
+                "stars": 1496
               }
             },
             {
@@ -920,7 +920,7 @@
                 "last_commit": "2026-08-27T04:28:47Z",
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77653
+                "stars": 77654
               }
             },
             {
@@ -935,7 +935,7 @@
                 "last_commit": "2024-05-13T13:12:43Z",
                 "owner": "filipradenovic",
                 "repo": "cnnimageretrieval-pytorch",
-                "stars": 1495
+                "stars": 1496
               }
             }
           ],
@@ -1087,7 +1087,7 @@
             "last_commit": "2026-08-27T04:28:47Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77653
+            "stars": 77654
           }
         }
       ],
@@ -1284,7 +1284,7 @@
                 "last_commit": "2025-12-10T10:00:19Z",
                 "owner": "cvg",
                 "repo": "Hierarchical-Localization",
-                "stars": 4195
+                "stars": 4196
               }
             },
             {
@@ -1299,7 +1299,7 @@
                 "last_commit": "2026-08-23T07:25:36Z",
                 "owner": "luigifreda",
                 "repo": "pyslam",
-                "stars": 3401
+                "stars": 3402
               }
             }
           ],
@@ -1312,7 +1312,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:51:13.508Z",
+    "last_updated": "2026-08-27T17:40:36.716Z",
     "original_repository_info": {
       "archived": false,
       "id": 224772470,
