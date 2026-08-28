@@ -18,7 +18,8 @@
                 "owner": "cherubicXN",
                 "repo": "hawp",
                 "stars": 375
-              }
+              },
+              "first_seen": "2026-08-28T18:47:05.447Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "uzh-rpg",
                 "repo": "sips2_open",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-28T18:47:05.447Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "axelBarroso",
                 "repo": "Key.Net",
                 "stars": 211
-              }
+              },
+              "first_seen": "2026-08-28T18:47:05.447Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "ducha-aiki",
                 "repo": "affnet",
                 "stars": 278
-              }
+              },
+              "first_seen": "2026-08-28T18:47:05.447Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "ColumbiaDVMM",
                 "repo": "Transform_Covariant_Detector",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-28T18:47:05.447Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "vcg-uvic",
                 "repo": "learn-orientation",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T18:47:05.447Z"
             },
             {
               "node_type": "item",
@@ -108,7 +114,8 @@
                 "owner": "vcg-uvic",
                 "repo": "TILDE",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T18:47:05.447Z"
             },
             {
               "node_type": "item",
@@ -123,7 +130,8 @@
                 "owner": "JuanDuGit",
                 "repo": "DH3D",
                 "stars": 160
-              }
+              },
+              "first_seen": "2026-08-28T18:47:05.447Z"
             },
             {
               "node_type": "item",
@@ -138,7 +146,8 @@
                 "owner": "lijx10",
                 "repo": "USIP",
                 "stars": 221
-              }
+              },
+              "first_seen": "2026-08-28T18:47:05.447Z"
             },
             {
               "node_type": "item",
@@ -153,7 +162,8 @@
                 "owner": "TRI-ML",
                 "repo": "KP3D",
                 "stars": 242
-              }
+              },
+              "first_seen": "2026-08-28T18:47:05.447Z"
             }
           ],
           "description": "This subsection includes the review about keypoint detection and it's orientation, scale, or affine transformation estimation.",
@@ -175,7 +185,8 @@
                 "owner": "shamangary",
                 "repo": "ASV",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T18:47:05.447Z"
             },
             {
               "node_type": "item",
@@ -190,7 +201,8 @@
                 "owner": "vbalnt",
                 "repo": "bold",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-28T18:47:05.447Z"
             },
             {
               "node_type": "item",
@@ -205,7 +217,8 @@
                 "owner": "ducha-aiki",
                 "repo": "pytorch-sift",
                 "stars": 173
-              }
+              },
+              "first_seen": "2026-08-28T18:47:05.447Z"
             },
             {
               "node_type": "item",
@@ -220,7 +233,8 @@
                 "owner": "nenadmarkus",
                 "repo": "wlrn",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T18:47:05.447Z"
             },
             {
               "node_type": "item",
@@ -235,7 +249,8 @@
                 "owner": "scape-research",
                 "repo": "SOSNet",
                 "stars": 139
-              }
+              },
+              "first_seen": "2026-08-28T18:47:05.447Z"
             },
             {
               "node_type": "item",
@@ -250,7 +265,8 @@
                 "owner": "lzx551402",
                 "repo": "geodesc",
                 "stars": 193
-              }
+              },
+              "first_seen": "2026-08-28T18:47:05.447Z"
             },
             {
               "node_type": "item",
@@ -265,7 +281,8 @@
                 "owner": "DagnyT",
                 "repo": "hardnet",
                 "stars": 534
-              }
+              },
+              "first_seen": "2026-08-28T18:47:05.447Z"
             },
             {
               "node_type": "item",
@@ -280,7 +297,8 @@
                 "owner": "shamangary",
                 "repo": "DeepCD",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-28T18:47:05.447Z"
             },
             {
               "node_type": "item",
@@ -295,7 +313,8 @@
                 "owner": "yuruntian",
                 "repo": "L2-Net",
                 "stars": 112
-              }
+              },
+              "first_seen": "2026-08-28T18:47:05.447Z"
             },
             {
               "node_type": "item",
@@ -310,7 +329,8 @@
                 "owner": "vbalnt",
                 "repo": "pnnet",
                 "stars": 55
-              }
+              },
+              "first_seen": "2026-08-28T18:47:05.447Z"
             },
             {
               "node_type": "item",
@@ -325,7 +345,8 @@
                 "owner": "vbalnt",
                 "repo": "tfeat",
                 "stars": 150
-              }
+              },
+              "first_seen": "2026-08-28T18:47:05.447Z"
             },
             {
               "node_type": "item",
@@ -340,7 +361,8 @@
                 "owner": "etrulls",
                 "repo": "deepdesc-release",
                 "stars": 121
-              }
+              },
+              "first_seen": "2026-08-28T18:47:05.447Z"
             },
             {
               "node_type": "item",
@@ -355,7 +377,8 @@
                 "owner": "szagoruyko",
                 "repo": "cvpr15deepcompare",
                 "stars": 472
-              }
+              },
+              "first_seen": "2026-08-28T18:47:05.447Z"
             }
           ],
           "description": "In the last few decades, people focus on the patch descriptor",
@@ -377,7 +400,8 @@
                 "owner": "ignacio-rocco",
                 "repo": "sparse-ncnet",
                 "stars": 155
-              }
+              },
+              "first_seen": "2026-08-28T18:47:05.447Z"
             },
             {
               "node_type": "item",
@@ -392,7 +416,8 @@
                 "owner": "lzx551402",
                 "repo": "ASLFeat",
                 "stars": 316
-              }
+              },
+              "first_seen": "2026-08-28T18:47:05.447Z"
             },
             {
               "node_type": "item",
@@ -407,7 +432,8 @@
                 "owner": "AaltoVision",
                 "repo": "DGC-Net",
                 "stars": 206
-              }
+              },
+              "first_seen": "2026-08-28T18:47:05.447Z"
             },
             {
               "node_type": "item",
@@ -422,7 +448,8 @@
                 "owner": "naver",
                 "repo": "r2d2",
                 "stars": 523
-              }
+              },
+              "first_seen": "2026-08-28T18:47:05.447Z"
             },
             {
               "node_type": "item",
@@ -437,7 +464,8 @@
                 "owner": "abenbihi",
                 "repo": "elf",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T18:47:05.447Z"
             },
             {
               "node_type": "item",
@@ -452,7 +480,8 @@
                 "owner": "xuelunshen",
                 "repo": "rfnet",
                 "stars": 136
-              }
+              },
+              "first_seen": "2026-08-28T18:47:05.447Z"
             },
             {
               "node_type": "item",
@@ -467,7 +496,8 @@
                 "owner": "mihaidusmanu",
                 "repo": "d2-net",
                 "stars": 847
-              }
+              },
+              "first_seen": "2026-08-28T18:47:05.447Z"
             },
             {
               "node_type": "item",
@@ -482,7 +512,8 @@
                 "owner": "uzh-rpg",
                 "repo": "imips_open",
                 "stars": 73
-              }
+              },
+              "first_seen": "2026-08-28T18:47:05.447Z"
             },
             {
               "node_type": "item",
@@ -497,7 +528,8 @@
                 "owner": "rpautrat",
                 "repo": "SuperPoint",
                 "stars": 2511
-              }
+              },
+              "first_seen": "2026-08-28T18:47:05.447Z"
             },
             {
               "node_type": "item",
@@ -512,7 +544,8 @@
                 "owner": "vcg-uvic",
                 "repo": "lf-net-release",
                 "stars": 320
-              }
+              },
+              "first_seen": "2026-08-28T18:47:05.447Z"
             },
             {
               "node_type": "item",
@@ -527,7 +560,8 @@
                 "owner": "cvlab-epfl",
                 "repo": "LIFT",
                 "stars": 494
-              }
+              },
+              "first_seen": "2026-08-28T18:47:05.447Z"
             },
             {
               "node_type": "item",
@@ -542,7 +576,8 @@
                 "owner": "XuyangBai",
                 "repo": "D3Feat.pytorch",
                 "stars": 156
-              }
+              },
+              "first_seen": "2026-08-28T18:47:05.447Z"
             }
           ],
           "description": "Recently, more and more papers try to embed the whole matching pipeline (keypoint detection, keypoint description) into one framework.",
@@ -564,7 +599,8 @@
                 "owner": "shamangary",
                 "repo": "awesome-local-global-descriptor",
                 "stars": 650
-              }
+              },
+              "first_seen": "2026-08-28T18:47:05.447Z"
             }
           ],
           "description": "Unlike local keypoint descriptor depends on keypoint, some works try to get the whole dense descriptor representation.",
@@ -586,7 +622,8 @@
                 "owner": "danini",
                 "repo": "affine-correspondences-for-camera-geometry",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-28T18:47:05.447Z"
             },
             {
               "node_type": "item",
@@ -601,7 +638,8 @@
                 "owner": "cavalli1234",
                 "repo": "AdaLAM",
                 "stars": 333
-              }
+              },
+              "first_seen": "2026-08-28T18:47:05.447Z"
             },
             {
               "node_type": "item",
@@ -616,7 +654,8 @@
                 "owner": "danini",
                 "repo": "magsac",
                 "stars": 503
-              }
+              },
+              "first_seen": "2026-08-28T18:47:05.447Z"
             },
             {
               "node_type": "item",
@@ -631,7 +670,8 @@
                 "owner": "ducha-aiki",
                 "repo": "pyransac",
                 "stars": 90
-              }
+              },
+              "first_seen": "2026-08-28T18:47:05.447Z"
             },
             {
               "node_type": "item",
@@ -646,7 +686,8 @@
                 "owner": "rpautrat",
                 "repo": "LISRD",
                 "stars": 260
-              }
+              },
+              "first_seen": "2026-08-28T18:47:05.447Z"
             },
             {
               "node_type": "item",
@@ -660,8 +701,9 @@
                 "last_commit": "2024-08-30T23:50:47Z",
                 "owner": "magicleap",
                 "repo": "SuperGluePretrainedNetwork",
-                "stars": 4073
-              }
+                "stars": 4074
+              },
+              "first_seen": "2026-08-28T18:47:05.447Z"
             },
             {
               "node_type": "item",
@@ -676,7 +718,8 @@
                 "owner": "vcg-uvic",
                 "repo": "acne",
                 "stars": 55
-              }
+              },
+              "first_seen": "2026-08-28T18:47:05.447Z"
             },
             {
               "node_type": "item",
@@ -691,7 +734,8 @@
                 "owner": "XiSHEN0220",
                 "repo": "RANSAC-Flow",
                 "stars": 451
-              }
+              },
+              "first_seen": "2026-08-28T18:47:05.447Z"
             },
             {
               "node_type": "item",
@@ -706,7 +750,8 @@
                 "owner": "vislearn",
                 "repo": "ngransac",
                 "stars": 339
-              }
+              },
+              "first_seen": "2026-08-28T18:47:05.447Z"
             },
             {
               "node_type": "item",
@@ -721,7 +766,8 @@
                 "owner": "zjhthu",
                 "repo": "OANet",
                 "stars": 272
-              }
+              },
+              "first_seen": "2026-08-28T18:47:05.447Z"
             },
             {
               "node_type": "item",
@@ -736,7 +782,8 @@
                 "owner": "vcg-uvic",
                 "repo": "learned-correspondence-release",
                 "stars": 260
-              }
+              },
+              "first_seen": "2026-08-28T18:47:05.447Z"
             },
             {
               "node_type": "item",
@@ -750,8 +797,9 @@
                 "last_commit": "2020-12-28T10:00:45Z",
                 "owner": "inrainbws",
                 "repo": "cnn-registration",
-                "stars": 459
-              }
+                "stars": 458
+              },
+              "first_seen": "2026-08-28T18:47:05.447Z"
             }
           ],
           "description": "After the matching, standard RANSAC and it's variants are usually adopted for outlier removal.",
@@ -779,7 +827,8 @@
                 "owner": "gtolias",
                 "repo": "asmk",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T18:47:05.447Z"
             },
             {
               "node_type": "item",
@@ -794,7 +843,8 @@
                 "owner": "Relja",
                 "repo": "netvlad",
                 "stars": 610
-              }
+              },
+              "first_seen": "2026-08-28T18:47:05.447Z"
             }
           ],
           "description": "When there is only hand-crafted local descriptors, people usually uses feature aggregation from a set of local descriptors and output a single description.\nSimilar idea but use deep learning to adapt classical algorithm",
@@ -816,7 +866,8 @@
                 "owner": "gtolias",
                 "repo": "how",
                 "stars": 95
-              }
+              },
+              "first_seen": "2026-08-28T18:47:05.447Z"
             },
             {
               "node_type": "item",
@@ -831,7 +882,8 @@
                 "owner": "nianticlabs",
                 "repo": "image-box-overlap",
                 "stars": 61
-              }
+              },
+              "first_seen": "2026-08-28T18:47:05.447Z"
             },
             {
               "node_type": "item",
@@ -846,7 +898,8 @@
                 "owner": "Andrew-Brown1",
                 "repo": "Smooth_AP",
                 "stars": 202
-              }
+              },
+              "first_seen": "2026-08-28T18:47:05.447Z"
             },
             {
               "node_type": "item",
@@ -861,7 +914,8 @@
                 "owner": "naver",
                 "repo": "deep-image-retrieval",
                 "stars": 680
-              }
+              },
+              "first_seen": "2026-08-28T18:47:05.447Z"
             },
             {
               "node_type": "item",
@@ -872,11 +926,12 @@
                 "archived": false,
                 "id": 51117837,
                 "language": "Python",
-                "last_commit": "2026-08-27T04:28:47Z",
+                "last_commit": "2026-08-28T18:30:48Z",
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77654
-              }
+                "stars": 77659
+              },
+              "first_seen": "2026-08-28T18:47:05.447Z"
             },
             {
               "node_type": "item",
@@ -891,7 +946,8 @@
                 "owner": "filipradenovic",
                 "repo": "cnnimageretrieval-pytorch",
                 "stars": 1496
-              }
+              },
+              "first_seen": "2026-08-28T18:47:05.447Z"
             },
             {
               "node_type": "item",
@@ -906,7 +962,8 @@
                 "owner": "naver",
                 "repo": "deep-image-retrieval",
                 "stars": 680
-              }
+              },
+              "first_seen": "2026-08-28T18:47:05.447Z"
             },
             {
               "node_type": "item",
@@ -917,11 +974,12 @@
                 "archived": false,
                 "id": 51117837,
                 "language": "Python",
-                "last_commit": "2026-08-27T04:28:47Z",
+                "last_commit": "2026-08-28T18:30:48Z",
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77654
-              }
+                "stars": 77659
+              },
+              "first_seen": "2026-08-28T18:47:05.447Z"
             },
             {
               "node_type": "item",
@@ -936,7 +994,8 @@
                 "owner": "filipradenovic",
                 "repo": "cnnimageretrieval-pytorch",
                 "stars": 1496
-              }
+              },
+              "first_seen": "2026-08-28T18:47:05.447Z"
             }
           ],
           "description": "One single representation from the image.",
@@ -958,7 +1017,8 @@
                 "owner": "scape-research",
                 "repo": "DAME-WEB",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T18:47:05.447Z"
             },
             {
               "node_type": "item",
@@ -973,7 +1033,8 @@
                 "owner": "kunhe",
                 "repo": "FastAP-metric-learning",
                 "stars": 97
-              }
+              },
+              "first_seen": "2026-08-28T18:47:05.447Z"
             },
             {
               "node_type": "item",
@@ -988,7 +1049,8 @@
                 "owner": "kunhe",
                 "repo": "TALR",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-28T18:47:05.447Z"
             }
           ],
           "description": "For more compact representation, a binary descriptor can be generated from hashing or thresholding. Quantization is also very popular in large-scale image retrieval.",
@@ -1010,7 +1072,8 @@
                 "owner": "nianticlabs",
                 "repo": "rectified-features",
                 "stars": 65
-              }
+              },
+              "first_seen": "2026-08-28T18:47:05.447Z"
             }
           ],
           "description": "Anything can boost the performance in the pre/post-processing stage such as rectification/re-ranking/query expansion.",
@@ -1032,7 +1095,8 @@
                 "owner": "mikacuy",
                 "repo": "pointnetvlad",
                 "stars": 400
-              }
+              },
+              "first_seen": "2026-08-28T18:47:05.447Z"
             }
           ],
           "description": null,
@@ -1058,7 +1122,8 @@
             "owner": "lzx551402",
             "repo": "contextdesc",
             "stars": 229
-          }
+          },
+          "first_seen": "2026-08-28T18:47:05.447Z"
         },
         {
           "node_type": "item",
@@ -1073,7 +1138,8 @@
             "owner": "ethz-asl",
             "repo": "hfnet",
             "stars": 879
-          }
+          },
+          "first_seen": "2026-08-28T18:47:05.447Z"
         },
         {
           "node_type": "item",
@@ -1084,11 +1150,12 @@
             "archived": false,
             "id": 51117837,
             "language": "Python",
-            "last_commit": "2026-08-27T04:28:47Z",
+            "last_commit": "2026-08-28T18:30:48Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77654
-          }
+            "stars": 77659
+          },
+          "first_seen": "2026-08-28T18:47:05.447Z"
         }
       ],
       "title": "Multi-tasking local and global descriptors"
@@ -1109,7 +1176,8 @@
             "owner": "svip-lab",
             "repo": "FastMVSNet",
             "stars": 258
-          }
+          },
+          "first_seen": "2026-08-28T18:47:05.447Z"
         },
         {
           "node_type": "item",
@@ -1124,7 +1192,8 @@
             "owner": "YoYo000",
             "repo": "BlendedMVS",
             "stars": 685
-          }
+          },
+          "first_seen": "2026-08-28T18:47:05.447Z"
         }
       ],
       "title": "MVS"
@@ -1145,7 +1214,8 @@
             "owner": "YoYo000",
             "repo": "BlendedMVS",
             "stars": 685
-          }
+          },
+          "first_seen": "2026-08-28T18:47:05.447Z"
         }
       ],
       "title": "View Synthesis/Novel view/Image completion"
@@ -1166,7 +1236,8 @@
             "owner": "maunzzz",
             "repo": "fine-grained-segmentation-networks",
             "stars": 84
-          }
+          },
+          "first_seen": "2026-08-28T18:47:05.447Z"
         }
       ],
       "title": "Segmentation localization"
@@ -1189,7 +1260,8 @@
                 "owner": "vcg-uvic",
                 "repo": "image-matching-benchmark",
                 "stars": 105
-              }
+              },
+              "first_seen": "2026-08-28T18:47:05.447Z"
             }
           ],
           "description": null,
@@ -1211,7 +1283,8 @@
                 "owner": "filipradenovic",
                 "repo": "revisitop",
                 "stars": 271
-              }
+              },
+              "first_seen": "2026-08-28T18:47:05.447Z"
             }
           ],
           "description": null,
@@ -1233,7 +1306,8 @@
                 "owner": "pmwenzel",
                 "repo": "mlad-eccv2020",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T18:47:05.447Z"
             },
             {
               "node_type": "item",
@@ -1248,7 +1322,8 @@
                 "owner": "tsattler",
                 "repo": "visuallocalizationbenchmark",
                 "stars": 356
-              }
+              },
+              "first_seen": "2026-08-28T18:47:05.447Z"
             }
           ],
           "description": null,
@@ -1270,7 +1345,8 @@
                 "owner": "naver",
                 "repo": "kapture",
                 "stars": 542
-              }
+              },
+              "first_seen": "2026-08-28T18:47:05.447Z"
             },
             {
               "node_type": "item",
@@ -1284,8 +1360,9 @@
                 "last_commit": "2025-12-10T10:00:19Z",
                 "owner": "cvg",
                 "repo": "Hierarchical-Localization",
-                "stars": 4196
-              }
+                "stars": 4198
+              },
+              "first_seen": "2026-08-28T18:47:05.447Z"
             },
             {
               "node_type": "item",
@@ -1300,7 +1377,8 @@
                 "owner": "luigifreda",
                 "repo": "pyslam",
                 "stars": 3402
-              }
+              },
+              "first_seen": "2026-08-28T18:47:05.447Z"
             }
           ],
           "description": null,
@@ -1312,7 +1390,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T17:40:36.716Z",
+    "last_updated": "2026-08-28T18:47:05.447Z",
     "original_repository_info": {
       "archived": false,
       "id": 224772470,
