@@ -12,12 +12,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Holistically-Attracted Wireframe Parsing [TPAMI'23] & [CVPR' 20] ",
+                "homepage": null,
                 "id": 247752803,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-02-26T03:46:40Z",
+                "open_issues": 21,
                 "owner": "cherubicXN",
                 "repo": "hawp",
-                "stars": 375
+                "stars": 375,
+                "topics": [
+                  "cvpr2020",
+                  "deep",
+                  "lsd",
+                  "wireframe"
+                ]
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
             },
@@ -28,12 +38,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Succinct Interest Points from Unsupervised Inlierness Probability Learning",
+                "homepage": null,
                 "id": 202758779,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2019-08-19T13:58:51Z",
+                "open_issues": 1,
                 "owner": "uzh-rpg",
                 "repo": "sips2_open",
-                "stars": 38
+                "stars": 38,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
             },
@@ -44,12 +59,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV 2019] Key.Net: Keypoint Detection by Handcrafted and Learned CNN Filters",
+                "homepage": null,
                 "id": 200879324,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2021-12-08T22:39:43Z",
+                "open_issues": 2,
                 "owner": "axelBarroso",
                 "repo": "Key.Net",
-                "stars": 211
+                "stars": 211,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
             },
@@ -60,12 +80,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code and weights for local  feature affine shape estimation paper \"Repeatability Is Not Enough: Learning Discriminative Affine Regions via Discriminability\"",
+                "homepage": null,
                 "id": 111140917,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-04-14T11:16:20Z",
+                "open_issues": 2,
                 "owner": "ducha-aiki",
                 "repo": "affnet",
-                "stars": 278
+                "stars": 278,
+                "topics": [
+                  "affine-shape-estimator",
+                  "computer-vision",
+                  "convolutional-networks",
+                  "convolutional-neural-networks",
+                  "deep-learning",
+                  "hessian",
+                  "image-matching",
+                  "image-retrieval",
+                  "local-features",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
             },
@@ -76,12 +112,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 86383845,
                 "language": "Matlab",
+                "license": null,
                 "last_commit": "2017-09-08T16:14:17Z",
+                "open_issues": 2,
                 "owner": "ColumbiaDVMM",
                 "repo": "Transform_Covariant_Detector",
-                "stars": 36
+                "stars": 36,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
             },
@@ -92,12 +133,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 62799107,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2017-11-18T09:00:57Z",
+                "open_issues": 1,
                 "owner": "vcg-uvic",
                 "repo": "learn-orientation",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
             },
@@ -108,12 +154,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Repository for \"TILDE: A Temporally Invariant Learned DEtector\", CVPR2015",
+                "homepage": null,
                 "id": 35891724,
                 "language": "MATLAB",
+                "license": null,
                 "last_commit": "2020-01-06T21:19:22Z",
+                "open_issues": 2,
                 "owner": "vcg-uvic",
                 "repo": "TILDE",
-                "stars": 50
+                "stars": 50,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
             },
@@ -124,12 +175,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DH3D: Deep Hierarchical 3D Descriptors for Robust Large-Scale 6DOF Relocalization ",
+                "homepage": "https://vision.in.tum.de/research/vslam/dh3d",
                 "id": 289491888,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2020-11-11T19:15:06Z",
+                "open_issues": 0,
                 "owner": "JuanDuGit",
                 "repo": "DH3D",
-                "stars": 160
+                "stars": 160,
+                "topics": [
+                  "autonomous-driving",
+                  "deep-learning",
+                  "feature-learning",
+                  "point-cloud",
+                  "relocalization"
+                ]
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
             },
@@ -140,12 +202,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "USIP: Unsupervised Stable Interest Point Detection from 3D Point Clouds. ICCV 2019",
+                "homepage": null,
                 "id": 178560141,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2019-10-27T12:54:54Z",
+                "open_issues": 14,
                 "owner": "lijx10",
                 "repo": "USIP",
-                "stars": 221
+                "stars": 221,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
             },
@@ -156,12 +223,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for \"Self-Supervised 3D Keypoint Learning for Ego-motion Estimation\"",
+                "homepage": null,
                 "id": 226418941,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-03-27T22:28:31Z",
+                "open_issues": 8,
                 "owner": "TRI-ML",
                 "repo": "KP3D",
-                "stars": 242
+                "stars": 242,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
             }
@@ -179,12 +251,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR16] Accumulated Stability Voting: A Robust Descriptor from Descriptors of Multiple Scales",
+                "homepage": null,
                 "id": 55386867,
                 "language": "C",
+                "license": "Apache-2.0",
                 "last_commit": "2016-04-21T09:26:49Z",
+                "open_issues": 1,
                 "owner": "shamangary",
                 "repo": "ASV",
-                "stars": 27
+                "stars": 27,
+                "topics": [
+                  "accumulation",
+                  "cvpr",
+                  "cvpr16",
+                  "feature",
+                  "image",
+                  "matching",
+                  "scale",
+                  "stability",
+                  "voting"
+                ]
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
             },
@@ -195,12 +282,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BOLD - Binary Online Learned Descriptor - CVPR 2015",
+                "homepage": "http://www.iis.ee.ic.ac.uk/~vbalnt/",
                 "id": 36684784,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2017-04-03T11:45:50Z",
+                "open_issues": 3,
                 "owner": "vbalnt",
                 "repo": "bold",
-                "stars": 32
+                "stars": 32,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
             },
@@ -211,12 +303,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PyTorch implementation of SIFT descriptor",
+                "homepage": null,
                 "id": 89869120,
                 "language": "Jupyter Notebook",
+                "license": "BSD-2-Clause",
                 "last_commit": "2019-08-22T10:44:48Z",
+                "open_issues": 0,
                 "owner": "ducha-aiki",
                 "repo": "pytorch-sift",
-                "stars": 173
+                "stars": 173,
+                "topics": [
+                  "cnn",
+                  "descriptor",
+                  "image-matching",
+                  "local-features",
+                  "pytorch",
+                  "sift"
+                ]
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
             },
@@ -227,12 +331,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Learning to match local patches/keypoints from image-level annotations",
+                "homepage": "https://arxiv.org/abs/1603.09095",
                 "id": 51770279,
                 "language": "TeX",
+                "license": null,
                 "last_commit": "2025-07-20T13:49:58Z",
+                "open_issues": 0,
                 "owner": "nenadmarkus",
                 "repo": "wlrn",
-                "stars": 28
+                "stars": 28,
+                "topics": [
+                  "deep",
+                  "descriptors",
+                  "learning",
+                  "matching"
+                ]
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
             },
@@ -243,12 +357,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pretrained pytorch model for the SOSNet descriptor [CVPR 2019]",
+                "homepage": "https://research.scape.io/sosnet/",
                 "id": 180540517,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2019-06-20T20:28:23Z",
+                "open_issues": 11,
                 "owner": "scape-research",
                 "repo": "SOSNet",
-                "stars": 139
+                "stars": 139,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
             },
@@ -259,12 +378,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of ECCV'18 paper -  GeoDesc: Learning Local Descriptors by Integrating Geometry Constraints",
+                "homepage": null,
                 "id": 140368658,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-06-06T03:51:39Z",
+                "open_issues": 7,
                 "owner": "lzx551402",
                 "repo": "geodesc",
-                "stars": 193
+                "stars": 193,
+                "topics": [
+                  "deep-learning",
+                  "eccv-2018"
+                ]
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
             },
@@ -275,12 +402,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hardnet descriptor model - \"Working hard to know your neighbor's margins:  Local descriptor learning loss\"",
+                "homepage": null,
                 "id": 92769355,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-04-14T11:10:14Z",
+                "open_issues": 6,
                 "owner": "DagnyT",
                 "repo": "hardnet",
-                "stars": 534
+                "stars": 534,
+                "topics": [
+                  "computer-vision",
+                  "convolutional-neural-networks",
+                  "deep-learning",
+                  "image-matching",
+                  "image-retrieval",
+                  "metric-learning",
+                  "nips-2017",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
             },
@@ -291,12 +432,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV17] DeepCD: Learning Deep Complementary Descriptors for Patch Representations",
+                "homepage": null,
                 "id": 97784265,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2018-01-24T10:48:33Z",
+                "open_issues": 0,
                 "owner": "shamangary",
                 "repo": "DeepCD",
-                "stars": 40
+                "stars": 40,
+                "topics": [
+                  "brown",
+                  "complementary",
+                  "deep",
+                  "deepcd",
+                  "descriptor",
+                  "feature",
+                  "iccv",
+                  "iccv17",
+                  "learning",
+                  "matching",
+                  "patch",
+                  "torch",
+                  "triplet"
+                ]
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
             },
@@ -307,12 +467,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code and mode for CVPR 2017 paper  \"L2-Net: Deep Learning of Discriminative Patch Descriptor in Euclidean Space\"",
+                "homepage": null,
                 "id": 84391513,
                 "language": "Matlab",
+                "license": null,
                 "last_commit": "2017-11-27T09:35:44Z",
+                "open_issues": 6,
                 "owner": "yuruntian",
                 "repo": "L2-Net",
-                "stars": 112
+                "stars": 112,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
             },
@@ -323,12 +488,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Conjoined Triple Deep Network for Learning Local Image Descriptors",
+                "homepage": null,
                 "id": 49972499,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2016-09-21T14:15:09Z",
+                "open_issues": 2,
                 "owner": "vbalnt",
                 "repo": "pnnet",
-                "stars": 55
+                "stars": 55,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
             },
@@ -339,12 +509,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TFeat descriptor models for BMVC 2016 paper \"Learning local feature descriptors with triplets and shallow convolutional neural networks\"",
+                "homepage": null,
                 "id": 68822672,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2021-01-16T11:26:01Z",
+                "open_issues": 2,
                 "owner": "vbalnt",
                 "repo": "tfeat",
-                "stars": 150
+                "stars": 150,
+                "topics": [
+                  "deep-learning",
+                  "descriptor",
+                  "pytorch",
+                  "tfeat-descriptor",
+                  "triplets"
+                ]
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
             },
@@ -355,12 +536,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for the ICCV 2015 paper \"Discriminative Learning of Deep Convolutional Feature Point Descriptors\"",
+                "homepage": "http://hi.cs.waseda.ac.jp/~esimo/research/deepdesc/",
                 "id": 43056056,
                 "language": "Lua",
+                "license": "NOASSERTION",
                 "last_commit": "2016-02-26T04:00:12Z",
+                "open_issues": 1,
                 "owner": "etrulls",
                 "repo": "deepdesc-release",
-                "stars": 121
+                "stars": 121,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
             },
@@ -371,12 +557,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code and models for \"Learning to Compare Image Patches via Convolutional Neural Networks\"",
+                "homepage": "http://imagine.enpc.fr/~zagoruys/deepcompare.html",
                 "id": 36528727,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2019-08-05T17:01:41Z",
+                "open_issues": 17,
                 "owner": "szagoruyko",
                 "repo": "cvpr15deepcompare",
-                "stars": 472
+                "stars": 472,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
             }
@@ -394,12 +585,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of Sparse-NCNet: \"Efficient Neighbourhood Consensus Networks via Submanifold Sparse Convolutions\"",
+                "homepage": null,
                 "id": 256492019,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-07-04T23:21:30Z",
+                "open_issues": 6,
                 "owner": "ignacio-rocco",
                 "repo": "sparse-ncnet",
-                "stars": 155
+                "stars": 155,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
             },
@@ -410,12 +606,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of CVPR'20 paper - ASLFeat: Learning Local Features of Accurate Shape and Localization",
+                "homepage": null,
                 "id": 239956153,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-04-12T14:36:04Z",
+                "open_issues": 15,
                 "owner": "lzx551402",
                 "repo": "ASLFeat",
-                "stars": 316
+                "stars": 316,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
             },
@@ -426,12 +627,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A PyTorch implementation of \"DGC-Net: Dense Geometric Correspondence Network\"",
+                "homepage": null,
                 "id": 156848841,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2021-10-12T22:55:47Z",
+                "open_issues": 8,
                 "owner": "AaltoVision",
                 "repo": "DGC-Net",
-                "stars": 206
+                "stars": 206,
+                "topics": [
+                  "cnn",
+                  "computer-vision",
+                  "deep-learning",
+                  "image-matching",
+                  "python",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
             },
@@ -442,12 +655,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 216446495,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-12-17T18:50:23Z",
+                "open_issues": 19,
                 "owner": "naver",
                 "repo": "r2d2",
-                "stars": 523
+                "stars": 523,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
             },
@@ -458,12 +676,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official repo for `ELF: Embedded Localisation of Features in pre-trained CNN' (ICCV19)",
+                "homepage": null,
                 "id": 200876943,
                 "language": "Python",
+                "license": "BSD-2-Clause",
                 "last_commit": "2022-11-21T21:11:30Z",
+                "open_issues": 6,
                 "owner": "abenbihi",
                 "repo": "elf",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
             },
@@ -474,12 +697,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RF-Net: An End-to-End Image Matching Network based on Receptive Field",
+                "homepage": null,
                 "id": 190498944,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-10-12T22:52:06Z",
+                "open_issues": 16,
                 "owner": "xuelunshen",
                 "repo": "rfnet",
-                "stars": 136
+                "stars": 136,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
             },
@@ -490,12 +718,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "D2-Net: A Trainable CNN for Joint Description and Detection of Local Features",
+                "homepage": null,
                 "id": 179720496,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2024-04-08T08:16:22Z",
+                "open_issues": 11,
                 "owner": "mihaidusmanu",
                 "repo": "d2-net",
-                "stars": 847
+                "stars": 847,
+                "topics": [
+                  "cnn",
+                  "cvpr2019",
+                  "local-features",
+                  "pytorch",
+                  "visual-localization"
+                ]
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
             },
@@ -506,12 +745,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Matching Features Without Descriptors: Implicitly Matched Interest Points",
+                "homepage": null,
                 "id": 198441445,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2019-08-19T13:47:52Z",
+                "open_issues": 3,
                 "owner": "uzh-rpg",
                 "repo": "imips_open",
-                "stars": 73
+                "stars": 73,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
             },
@@ -522,12 +766,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Efficient neural feature detector and descriptor",
+                "homepage": null,
                 "id": 123953638,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2025-05-05T06:57:01Z",
+                "open_issues": 48,
                 "owner": "rpautrat",
                 "repo": "SuperPoint",
-                "stars": 2511
+                "stars": 2511,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
             },
@@ -538,12 +787,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code Release for LF-Net: Learning Local Features from Images",
+                "homepage": null,
                 "id": 142556595,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2022-11-21T21:10:46Z",
+                "open_issues": 14,
                 "owner": "vcg-uvic",
                 "repo": "lf-net-release",
-                "stars": 320
+                "stars": 320,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
             },
@@ -554,12 +808,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code release for the ECCV 2016 paper",
+                "homepage": null,
                 "id": 63952900,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2017-11-06T13:55:43Z",
+                "open_issues": 1,
                 "owner": "cvlab-epfl",
                 "repo": "LIFT",
-                "stars": 494
+                "stars": 494,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
             },
@@ -570,12 +829,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[PyTorch] Official Implementation of CVPR'20 oral paper - D3Feat: Joint Learning of Dense Detection and Description of 3D Local Features https://arxiv.org/abs/2003.03164",
+                "homepage": null,
                 "id": 266340474,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-09-08T03:37:28Z",
+                "open_issues": 9,
                 "owner": "XuyangBai",
                 "repo": "D3Feat.pytorch",
-                "stars": 156
+                "stars": 156,
+                "topics": [
+                  "3d",
+                  "descriptor",
+                  "pointcloud",
+                  "pytorch",
+                  "registration"
+                ]
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
             }
@@ -593,12 +863,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "My personal note about local and global descriptor",
+                "homepage": null,
                 "id": 224772470,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-10-21T14:47:27Z",
+                "open_issues": 0,
                 "owner": "shamangary",
                 "repo": "awesome-local-global-descriptor",
-                "stars": 650
+                "stars": 650,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "cbir",
+                  "cnn",
+                  "descriptor",
+                  "global",
+                  "keypoint",
+                  "local",
+                  "local-descriptors",
+                  "local-descriptors-cnns",
+                  "local-features",
+                  "matching",
+                  "network",
+                  "retrieval",
+                  "sift"
+                ]
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
             }
@@ -616,12 +907,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 278592167,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2022-07-04T08:57:16Z",
+                "open_issues": 2,
                 "owner": "danini",
                 "repo": "affine-correspondences-for-camera-geometry",
-                "stars": 43
+                "stars": 43,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
             },
@@ -632,12 +928,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AdaLAM is a fully handcrafted realtime outlier filter integrating several best practices into a single efficient and effective framework. It detects inliers by searching for significant local affine patterns in image correspondences.",
+                "homepage": null,
                 "id": 274083837,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2022-09-05T10:47:56Z",
+                "open_issues": 5,
                 "owner": "cavalli1234",
                 "repo": "AdaLAM",
-                "stars": 333
+                "stars": 333,
+                "topics": [
+                  "computervision",
+                  "image-matching"
+                ]
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
             },
@@ -648,12 +952,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The MAGSAC algorithm for robust model fitting without using an inlier-outlier threshold",
+                "homepage": null,
                 "id": 178883364,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-03-09T20:31:00Z",
+                "open_issues": 15,
                 "owner": "danini",
                 "repo": "magsac",
-                "stars": 503
+                "stars": 503,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
             },
@@ -664,12 +973,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast and accurate python RANSAC with LO, LAF-check ",
+                "homepage": null,
                 "id": 201058804,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2020-04-24T15:48:34Z",
+                "open_issues": 0,
                 "owner": "ducha-aiki",
                 "repo": "pyransac",
-                "stars": 90
+                "stars": 90,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
             },
@@ -680,12 +994,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Local Invariance Selection at Runtime for Descriptors  (LISRD)",
+                "homepage": null,
                 "id": 279563454,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2024-04-01T14:45:47Z",
+                "open_issues": 2,
                 "owner": "rpautrat",
                 "repo": "LISRD",
-                "stars": 260
+                "stars": 260,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
             },
@@ -696,12 +1015,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SuperGlue: Learning Feature Matching with Graph Neural Networks (CVPR 2020, Oral)",
+                "homepage": null,
                 "id": 248056757,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-08-30T23:50:47Z",
+                "open_issues": 60,
                 "owner": "magicleap",
                 "repo": "SuperGluePretrainedNetwork",
-                "stars": 4074
+                "stars": 4074,
+                "topics": [
+                  "deep-learning",
+                  "feature-matching",
+                  "graph-neural-networks",
+                  "pose-estimation"
+                ]
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
             },
@@ -712,12 +1041,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code Release for CVPR 2020, \"ACNe: Attentive Context Normalizationfor Robust Permutation-Equivariant Learning\"",
+                "homepage": null,
                 "id": 250626193,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-07-21T16:15:11Z",
+                "open_issues": 0,
                 "owner": "vcg-uvic",
                 "repo": "acne",
-                "stars": 55
+                "stars": 55,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
             },
@@ -728,12 +1062,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "(ECCV 2020) RANSAC-Flow: generic two-stage image alignment",
+                "homepage": "http://imagine.enpc.fr/~shenx/RANSAC-Flow/",
                 "id": 250037527,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2024-05-14T03:47:43Z",
+                "open_issues": 6,
                 "owner": "XiSHEN0220",
                 "repo": "RANSAC-Flow",
-                "stars": 451
+                "stars": 451,
+                "topics": [
+                  "3d-reconstruction",
+                  "art-image",
+                  "eccv202",
+                  "image-alignment",
+                  "optical-flow"
+                ]
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
             },
@@ -744,12 +1089,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Neural-Guided RANSAC for Estimating Epipolar Geometry from Sparse Correspondences",
+                "homepage": null,
                 "id": 208760208,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2021-11-03T10:44:15Z",
+                "open_issues": 1,
                 "owner": "vislearn",
                 "repo": "ngransac",
-                "stars": 339
+                "stars": 339,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
             },
@@ -760,12 +1110,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of ICCV19 Paper \"Learning Two-View Correspondences and Geometry Using Order-Aware Network\"",
+                "homepage": null,
                 "id": 202188095,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-04-10T11:53:58Z",
+                "open_issues": 7,
                 "owner": "zjhthu",
                 "repo": "OANet",
-                "stars": 272
+                "stars": 272,
+                "topics": [
+                  "3d-reconstruction",
+                  "graph-neural-network",
+                  "iccv2019",
+                  "image-matching",
+                  "outlier-rejection"
+                ]
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
             },
@@ -776,12 +1137,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code release for \"learning to find good correspondences\" CVPR 2018",
+                "homepage": null,
                 "id": 129787818,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2022-11-21T22:20:46Z",
+                "open_issues": 11,
                 "owner": "vcg-uvic",
                 "repo": "learned-correspondence-release",
-                "stars": 260
+                "stars": 260,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
             },
@@ -792,12 +1158,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An image registration method using convolutional neural network features.",
+                "homepage": null,
                 "id": 121105981,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-12-28T10:00:45Z",
+                "open_issues": 25,
                 "owner": "inrainbws",
                 "repo": "cnn-registration",
-                "stars": 458
+                "stars": 458,
+                "topics": [
+                  "convolutional-neural-networks",
+                  "image-registration"
+                ]
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
             }
@@ -821,12 +1195,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Matlab/Mex implementation of Aggregated Selective Match Kernels for Image Retrieval (published in ICCV 2013)",
+                "homepage": null,
                 "id": 163888132,
                 "language": "MATLAB",
+                "license": null,
                 "last_commit": "2025-10-16T12:38:51Z",
+                "open_issues": 2,
                 "owner": "gtolias",
                 "repo": "asmk",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
             },
@@ -837,12 +1216,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NetVLAD: CNN architecture for weakly supervised place recognition",
+                "homepage": null,
                 "id": 46722247,
                 "language": "Matlab",
+                "license": "MIT",
                 "last_commit": "2017-07-22T17:41:15Z",
+                "open_issues": 0,
                 "owner": "Relja",
                 "repo": "netvlad",
-                "stars": 610
+                "stars": 610,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
             }
@@ -860,12 +1244,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "HOW local descriptors",
+                "homepage": null,
                 "id": 279616011,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-07-25T10:57:51Z",
+                "open_issues": 3,
                 "owner": "gtolias",
                 "repo": "how",
-                "stars": 95
+                "stars": 95,
+                "topics": [
+                  "deep-descriptors",
+                  "image-retrieval",
+                  "instance-level-recognition",
+                  "instance-level-search",
+                  "local-descriptors",
+                  "local-features",
+                  "visual-representation",
+                  "visual-representation-learning"
+                ]
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
             },
@@ -876,12 +1274,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCV 2020] Training neural networks to predict visual overlap of images, through interpretable non-metric box embeddings",
+                "homepage": null,
                 "id": 284953808,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2020-09-24T10:39:28Z",
+                "open_issues": 0,
                 "owner": "nianticlabs",
                 "repo": "image-box-overlap",
-                "stars": 61
+                "stars": 61,
+                "topics": [
+                  "deep-learning",
+                  "deeplearning",
+                  "embedding",
+                  "metric-learning",
+                  "non-metric",
+                  "nonmetric",
+                  "representation-learning",
+                  "surface-overlap",
+                  "visual-overlap"
+                ]
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
             },
@@ -892,12 +1305,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "code for the ECCV '20 paper \"Smooth-AP: Smoothing the Path Towards Large-Scale Image Retrieval\"",
+                "homepage": null,
                 "id": 279593547,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-04-01T15:23:27Z",
+                "open_issues": 9,
                 "owner": "Andrew-Brown1",
                 "repo": "Smooth_AP",
-                "stars": 202
+                "stars": 202,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
             },
@@ -908,12 +1326,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "End-to-end learning of deep visual representations for image retrieval",
+                "homepage": "https://europe.naverlabs.com/Research/Computer-Vision/Learning-Visual-Representations/Deep-Image-Retrieval/",
                 "id": 192671738,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2021-05-19T09:07:28Z",
+                "open_issues": 14,
                 "owner": "naver",
                 "repo": "deep-image-retrieval",
-                "stars": 680
+                "stars": 680,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
             },
@@ -924,12 +1347,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Models and examples built with TensorFlow",
+                "homepage": null,
                 "id": 51117837,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T18:30:48Z",
+                "open_issues": 1272,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77659
+                "stars": 77658,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
             },
@@ -940,12 +1368,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CNN Image Retrieval in PyTorch: Training and evaluating CNNs for Image Retrieval in PyTorch",
+                "homepage": "http://cmp.felk.cvut.cz/cnnimageretrieval",
                 "id": 131194654,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-05-13T13:12:43Z",
+                "open_issues": 34,
                 "owner": "filipradenovic",
                 "repo": "cnnimageretrieval-pytorch",
-                "stars": 1496
+                "stars": 1496,
+                "topics": [
+                  "cnn",
+                  "convolutional-neural-networks",
+                  "image-retrieval",
+                  "python",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
             },
@@ -956,12 +1395,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "End-to-end learning of deep visual representations for image retrieval",
+                "homepage": "https://europe.naverlabs.com/Research/Computer-Vision/Learning-Visual-Representations/Deep-Image-Retrieval/",
                 "id": 192671738,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2021-05-19T09:07:28Z",
+                "open_issues": 14,
                 "owner": "naver",
                 "repo": "deep-image-retrieval",
-                "stars": 680
+                "stars": 680,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
             },
@@ -972,12 +1416,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Models and examples built with TensorFlow",
+                "homepage": null,
                 "id": 51117837,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T18:30:48Z",
+                "open_issues": 1272,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77659
+                "stars": 77658,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
             },
@@ -988,12 +1437,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CNN Image Retrieval in PyTorch: Training and evaluating CNNs for Image Retrieval in PyTorch",
+                "homepage": "http://cmp.felk.cvut.cz/cnnimageretrieval",
                 "id": 131194654,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-05-13T13:12:43Z",
+                "open_issues": 34,
                 "owner": "filipradenovic",
                 "repo": "cnnimageretrieval-pytorch",
-                "stars": 1496
+                "stars": 1496,
+                "topics": [
+                  "cnn",
+                  "convolutional-neural-networks",
+                  "image-retrieval",
+                  "python",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
             }
@@ -1011,12 +1471,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCVw19] DAME WEB: DynAmic MEan with Whitening Ensemble Binarization for Landmark Retrieval without Human Annotation",
+                "homepage": null,
                 "id": 229281793,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2019-12-20T14:42:51Z",
+                "open_issues": 1,
                 "owner": "scape-research",
                 "repo": "DAME-WEB",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
             },
@@ -1027,12 +1492,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for CVPR 2019 paper \"Deep Metric Learning to Rank\"",
+                "homepage": null,
                 "id": 190536631,
                 "language": "MATLAB",
+                "license": "NOASSERTION",
                 "last_commit": "2021-09-21T01:48:46Z",
+                "open_issues": 2,
                 "owner": "kunhe",
                 "repo": "FastAP-metric-learning",
-                "stars": 97
+                "stars": 97,
+                "topics": [
+                  "cvpr",
+                  "deep-metric-learning",
+                  "learning-to-rank",
+                  "matconvnet",
+                  "metric-learning",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
             },
@@ -1043,12 +1520,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for CVPR 2018 paper \"Hashing as Tie-Aware Learning to Rank\"",
+                "homepage": null,
                 "id": 137269433,
                 "language": "MATLAB",
+                "license": "NOASSERTION",
                 "last_commit": "2021-09-21T01:46:54Z",
+                "open_issues": 1,
                 "owner": "kunhe",
                 "repo": "TALR",
-                "stars": 46
+                "stars": 46,
+                "topics": [
+                  "content-based-image-retrieval",
+                  "cvpr",
+                  "deep-hashing",
+                  "hashing",
+                  "image-retrieval",
+                  "learning-to-rank",
+                  "matconvnet"
+                ]
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
             }
@@ -1066,12 +1556,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCV 2020] Single image depth prediction allows us to rectify planar surfaces in images and extract view-invariant local features for better feature matching",
+                "homepage": null,
                 "id": 284974048,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2021-05-11T12:36:39Z",
+                "open_issues": 7,
                 "owner": "nianticlabs",
                 "repo": "rectified-features",
-                "stars": 65
+                "stars": 65,
+                "topics": [
+                  "depth-estimation",
+                  "feature-matching",
+                  "image-matching",
+                  "local-features",
+                  "monocular-depth-estimation",
+                  "rectification",
+                  "robotcar",
+                  "single-image-depth-prediction"
+                ]
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
             }
@@ -1089,12 +1593,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PointNetVLAD: Deep Point Cloud Based Retrieval for Large-Scale Place Recognition, CVPR 2018",
+                "homepage": null,
                 "id": 125535567,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-01-19T19:13:28Z",
+                "open_issues": 8,
                 "owner": "mikacuy",
                 "repo": "pointnetvlad",
-                "stars": 400
+                "stars": 400,
+                "topics": [
+                  "computer-vision",
+                  "deep-learning",
+                  "place-recognition",
+                  "point-cloud"
+                ]
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
             }
@@ -1116,12 +1630,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of CVPR'19 paper (oral) -  ContextDesc: Local Descriptor Augmentation with Cross-Modality Context",
+            "homepage": null,
             "id": 175433852,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-04-12T14:42:36Z",
+            "open_issues": 11,
             "owner": "lzx551402",
             "repo": "contextdesc",
-            "stars": 229
+            "stars": 229,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:47:05.447Z"
         },
@@ -1132,12 +1651,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "From Coarse to Fine: Robust Hierarchical Localization at Large Scale with HF-Net (https://arxiv.org/abs/1812.03506)",
+            "homepage": null,
             "id": 170833341,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-07-25T10:13:41Z",
+            "open_issues": 19,
             "owner": "ethz-asl",
             "repo": "hfnet",
-            "stars": 879
+            "stars": 879,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:47:05.447Z"
         },
@@ -1148,12 +1672,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Models and examples built with TensorFlow",
+            "homepage": null,
             "id": 51117837,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T18:30:48Z",
+            "open_issues": 1272,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77659
+            "stars": 77658,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:47:05.447Z"
         }
@@ -1170,12 +1699,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR'20] Fast-MVSNet: Sparse-to-Dense Multi-View Stereo With Learned Propagation and Gauss-Newton Refinement",
+            "homepage": null,
             "id": 251052210,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-03-31T01:36:11Z",
+            "open_issues": 15,
             "owner": "svip-lab",
             "repo": "FastMVSNet",
-            "stars": 258
+            "stars": 258,
+            "topics": [
+              "cvpr2020",
+              "multi-view-stereo",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T18:47:05.447Z"
         },
@@ -1186,12 +1724,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "BlendedMVS: A Large-scale Dataset for Generalized Multi-view Stereo Networks",
+            "homepage": null,
             "id": 223414731,
             "language": null,
+            "license": null,
             "last_commit": "2025-09-08T02:21:12Z",
+            "open_issues": 29,
             "owner": "YoYo000",
             "repo": "BlendedMVS",
-            "stars": 685
+            "stars": 685,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:47:05.447Z"
         }
@@ -1208,12 +1751,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "BlendedMVS: A Large-scale Dataset for Generalized Multi-view Stereo Networks",
+            "homepage": null,
             "id": 223414731,
             "language": null,
+            "license": null,
             "last_commit": "2025-09-08T02:21:12Z",
+            "open_issues": 29,
             "owner": "YoYo000",
             "repo": "BlendedMVS",
-            "stars": 685
+            "stars": 685,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:47:05.447Z"
         }
@@ -1230,12 +1778,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for the ICCV paper \"Fine-Grained Segmentation Networks: Self-Supervised Segmentation for Improved Long-Term Visual Localization\"",
+            "homepage": null,
             "id": 202103507,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-07-25T10:16:39Z",
+            "open_issues": 1,
             "owner": "maunzzz",
             "repo": "fine-grained-segmentation-networks",
-            "stars": 84
+            "stars": 84,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:47:05.447Z"
         }
@@ -1254,12 +1807,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Public release of the Image Matching Benchmark: https://vision.uvic.ca/image-matching-challenge",
+                "homepage": null,
                 "id": 292168426,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2020-10-13T03:33:11Z",
+                "open_issues": 0,
                 "owner": "vcg-uvic",
                 "repo": "image-matching-benchmark",
-                "stars": 105
+                "stars": 105,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
             }
@@ -1277,12 +1835,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Revisiting Oxford and Paris: Large-Scale Image Retrieval Benchmarking",
+                "homepage": "http://cmp.felk.cvut.cz/revisitop",
                 "id": 129274783,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-06-02T18:55:53Z",
+                "open_issues": 8,
                 "owner": "filipradenovic",
                 "repo": "revisitop",
-                "stars": 271
+                "stars": 271,
+                "topics": [
+                  "image-retrieval",
+                  "matlab",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
             }
@@ -1300,12 +1867,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 261983604,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-05-15T08:15:57Z",
+                "open_issues": 0,
                 "owner": "pmwenzel",
                 "repo": "mlad-eccv2020",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
             },
@@ -1316,12 +1888,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 173990960,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-08-12T07:03:03Z",
+                "open_issues": 6,
                 "owner": "tsattler",
                 "repo": "visuallocalizationbenchmark",
-                "stars": 356
+                "stars": 356,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
             }
@@ -1339,12 +1916,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "kapture is a file format as well as a set of tools for manipulating datasets, and in particular Visual Localization and Structure from Motion data.",
+                "homepage": null,
                 "id": 275164995,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-04-17T09:46:26Z",
+                "open_issues": 0,
                 "owner": "naver",
                 "repo": "kapture",
-                "stars": 542
+                "stars": 542,
+                "topics": [
+                  "colmap",
+                  "image-retrieval",
+                  "localization",
+                  "r2d2",
+                  "sfm",
+                  "structure-from-motion",
+                  "visual-features",
+                  "visual-localization"
+                ]
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
             },
@@ -1355,12 +1946,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Visual localization made easy with hloc",
+                "homepage": null,
                 "id": 280084324,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-12-10T10:00:19Z",
+                "open_issues": 162,
                 "owner": "cvg",
                 "repo": "Hierarchical-Localization",
-                "stars": 4198
+                "stars": 4199,
+                "topics": [
+                  "deep-learning",
+                  "feature-matching",
+                  "image-retrieval",
+                  "pose-estimation",
+                  "structure-from-motion",
+                  "superglue",
+                  "visual-localization"
+                ]
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
             },
@@ -1371,12 +1975,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "pySLAM is a hybrid Python/C++ Visual SLAM pipeline supporting monocular, stereo, and RGB-D cameras. It provides a broad set of modern local and global feature extractors, multiple loop-closure strategies, a volumetric reconstruction module, integrated depth-prediction models, and semantic segmentation capabilities for enhanced scene understanding.",
+                "homepage": null,
                 "id": 179858671,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-23T07:25:36Z",
+                "open_issues": 1,
                 "owner": "luigifreda",
                 "repo": "pyslam",
-                "stars": 3402
+                "stars": 3403,
+                "topics": [
+                  "3d-reconstruction",
+                  "depth-estimation",
+                  "depth-prediction",
+                  "end-to-end-reconstruction",
+                  "feature-matching",
+                  "gaussian-splatting",
+                  "global-features",
+                  "instance-segmentation",
+                  "local-features",
+                  "loop-closure",
+                  "place-recognition",
+                  "rgbd-slam",
+                  "scene-understanding",
+                  "semantic-mapping",
+                  "semantic-segmentation",
+                  "semantic-understanding",
+                  "slam",
+                  "stereo-slam",
+                  "visual-odometry",
+                  "volumetric-reconstruction"
+                ]
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
             }
@@ -1390,15 +2020,36 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T18:47:05.447Z",
+    "last_updated": "2026-08-29T04:37:59.073Z",
     "original_repository_info": {
       "archived": false,
+      "description": "My personal note about local and global descriptor",
+      "homepage": null,
       "id": 224772470,
       "language": null,
+      "license": null,
       "last_commit": "2020-10-21T14:47:27Z",
+      "open_issues": 0,
       "owner": "shamangary",
       "repo": "awesome-local-global-descriptor",
-      "stars": 650
+      "stars": 650,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "cbir",
+        "cnn",
+        "descriptor",
+        "global",
+        "keypoint",
+        "local",
+        "local-descriptors",
+        "local-descriptors-cnns",
+        "local-features",
+        "matching",
+        "network",
+        "retrieval",
+        "sift"
+      ]
     },
     "original_repository_sha": "1be64100f8cdba99e60cd0ee8385bc7085223c96",
     "enhanced_repository": "enhansome/enhansome-local-global-descriptor",
