@@ -345,7 +345,7 @@ Some works try to cover both local descriptor and global retrieval due to the sh
 | Year    | Paper                                        | link                                                                                                       |
 | ------- | -------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
 | \[2020] | Kapture                                      | [github](https://github.com/naver/kapture) ⭐ 542 \| 🐛 0 \| 🌐 Python \| 📅 2026-04-17                     |
-| \[2020] | hloc - the hierarchical localization toolbox | [github](https://github.com/cvg/Hierarchical-Localization) ⭐ 4,199 \| 🐛 162 \| 🌐 Python \| 📅 2025-12-10 |
+| \[2020] | hloc - the hierarchical localization toolbox | [github](https://github.com/cvg/Hierarchical-Localization) ⭐ 4,198 \| 🐛 162 \| 🌐 Python \| 📅 2025-12-10 |
 | \[2020] | pyslamv2                                     | [github](https://github.com/luigifreda/pyslam) ⭐ 3,403 \| 🐛 1 \| 🌐 Python \| 📅 2026-08-23               |
 
 ***

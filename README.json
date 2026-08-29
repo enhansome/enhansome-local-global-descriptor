@@ -1955,7 +1955,7 @@
                 "open_issues": 162,
                 "owner": "cvg",
                 "repo": "Hierarchical-Localization",
-                "stars": 4199,
+                "stars": 4198,
                 "topics": [
                   "deep-learning",
                   "feature-matching",
@@ -2020,7 +2020,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:37:59.073Z",
+    "last_updated": "2026-08-29T12:43:44.412Z",
     "original_repository_info": {
       "archived": false,
       "description": "My personal note about local and global descriptor",
