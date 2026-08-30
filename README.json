@@ -1356,7 +1356,7 @@
                 "open_issues": 1272,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77658,
+                "stars": 77660,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1425,7 +1425,7 @@
                 "open_issues": 1272,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77658,
+                "stars": 77660,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1681,7 +1681,7 @@
             "open_issues": 1272,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77658,
+            "stars": 77660,
             "topics": []
           },
           "first_seen": "2026-08-28T18:47:05.447Z"
@@ -2020,7 +2020,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T12:43:44.412Z",
+    "last_updated": "2026-08-30T11:58:53.067Z",
     "original_repository_info": {
       "archived": false,
       "description": "My personal note about local and global descriptor",
