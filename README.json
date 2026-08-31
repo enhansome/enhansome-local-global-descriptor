@@ -1024,7 +1024,7 @@
                 "open_issues": 60,
                 "owner": "magicleap",
                 "repo": "SuperGluePretrainedNetwork",
-                "stars": 4074,
+                "stars": 4075,
                 "topics": [
                   "deep-learning",
                   "feature-matching",
@@ -1335,7 +1335,7 @@
                 "open_issues": 14,
                 "owner": "naver",
                 "repo": "deep-image-retrieval",
-                "stars": 680,
+                "stars": 681,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1404,7 +1404,7 @@
                 "open_issues": 14,
                 "owner": "naver",
                 "repo": "deep-image-retrieval",
-                "stars": 680,
+                "stars": 681,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1733,7 +1733,7 @@
             "open_issues": 29,
             "owner": "YoYo000",
             "repo": "BlendedMVS",
-            "stars": 685,
+            "stars": 686,
             "topics": []
           },
           "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1760,7 +1760,7 @@
             "open_issues": 29,
             "owner": "YoYo000",
             "repo": "BlendedMVS",
-            "stars": 685,
+            "stars": 686,
             "topics": []
           },
           "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1955,7 +1955,7 @@
                 "open_issues": 162,
                 "owner": "cvg",
                 "repo": "Hierarchical-Localization",
-                "stars": 4198,
+                "stars": 4199,
                 "topics": [
                   "deep-learning",
                   "feature-matching",
@@ -2020,7 +2020,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T11:58:53.067Z",
+    "last_updated": "2026-08-31T13:59:22.938Z",
     "original_repository_info": {
       "archived": false,
       "description": "My personal note about local and global descriptor",
