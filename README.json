@@ -1024,7 +1024,7 @@
                 "open_issues": 60,
                 "owner": "magicleap",
                 "repo": "SuperGluePretrainedNetwork",
-                "stars": 4075,
+                "stars": 4077,
                 "topics": [
                   "deep-learning",
                   "feature-matching",
@@ -1352,8 +1352,8 @@
                 "id": 51117837,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-28T18:30:48Z",
-                "open_issues": 1272,
+                "last_commit": "2026-08-31T23:14:28Z",
+                "open_issues": 1273,
                 "owner": "tensorflow",
                 "repo": "models",
                 "stars": 77660,
@@ -1421,8 +1421,8 @@
                 "id": 51117837,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-28T18:30:48Z",
-                "open_issues": 1272,
+                "last_commit": "2026-08-31T23:14:28Z",
+                "open_issues": 1273,
                 "owner": "tensorflow",
                 "repo": "models",
                 "stars": 77660,
@@ -1660,7 +1660,7 @@
             "open_issues": 19,
             "owner": "ethz-asl",
             "repo": "hfnet",
-            "stars": 879,
+            "stars": 880,
             "topics": []
           },
           "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1677,8 +1677,8 @@
             "id": 51117837,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-28T18:30:48Z",
-            "open_issues": 1272,
+            "last_commit": "2026-08-31T23:14:28Z",
+            "open_issues": 1273,
             "owner": "tensorflow",
             "repo": "models",
             "stars": 77660,
@@ -1955,7 +1955,7 @@
                 "open_issues": 162,
                 "owner": "cvg",
                 "repo": "Hierarchical-Localization",
-                "stars": 4199,
+                "stars": 4200,
                 "topics": [
                   "deep-learning",
                   "feature-matching",
@@ -1984,7 +1984,7 @@
                 "open_issues": 1,
                 "owner": "luigifreda",
                 "repo": "pyslam",
-                "stars": 3403,
+                "stars": 3404,
                 "topics": [
                   "3d-reconstruction",
                   "depth-estimation",
@@ -2020,7 +2020,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T13:59:22.938Z",
+    "last_updated": "2026-09-01T11:43:53.631Z",
     "original_repository_info": {
       "archived": false,
       "description": "My personal note about local and global descriptor",
