@@ -775,7 +775,7 @@
                 "open_issues": 48,
                 "owner": "rpautrat",
                 "repo": "SuperPoint",
-                "stars": 2511,
+                "stars": 2513,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1352,11 +1352,11 @@
                 "id": 51117837,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-02T01:25:26Z",
-                "open_issues": 1273,
+                "last_commit": "2026-09-02T18:30:36Z",
+                "open_issues": 1272,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77660,
+                "stars": 77661,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1421,11 +1421,11 @@
                 "id": 51117837,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-02T01:25:26Z",
-                "open_issues": 1273,
+                "last_commit": "2026-09-02T18:30:36Z",
+                "open_issues": 1272,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77660,
+                "stars": 77661,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1677,11 +1677,11 @@
             "id": 51117837,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-02T01:25:26Z",
-            "open_issues": 1273,
+            "last_commit": "2026-09-02T18:30:36Z",
+            "open_issues": 1272,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77660,
+            "stars": 77661,
             "topics": []
           },
           "first_seen": "2026-08-28T18:47:05.447Z"
@@ -2020,7 +2020,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T11:25:03.633Z",
+    "last_updated": "2026-09-03T11:21:14.242Z",
     "original_repository_info": {
       "archived": false,
       "description": "My personal note about local and global descriptor",
