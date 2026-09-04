@@ -1352,8 +1352,8 @@
                 "id": 51117837,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-02T18:30:36Z",
-                "open_issues": 1272,
+                "last_commit": "2026-09-03T23:11:37Z",
+                "open_issues": 1273,
                 "owner": "tensorflow",
                 "repo": "models",
                 "stars": 77661,
@@ -1421,8 +1421,8 @@
                 "id": 51117837,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-02T18:30:36Z",
-                "open_issues": 1272,
+                "last_commit": "2026-09-03T23:11:37Z",
+                "open_issues": 1273,
                 "owner": "tensorflow",
                 "repo": "models",
                 "stars": 77661,
@@ -1602,7 +1602,7 @@
                 "open_issues": 8,
                 "owner": "mikacuy",
                 "repo": "pointnetvlad",
-                "stars": 400,
+                "stars": 401,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -1677,8 +1677,8 @@
             "id": 51117837,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-02T18:30:36Z",
-            "open_issues": 1272,
+            "last_commit": "2026-09-03T23:11:37Z",
+            "open_issues": 1273,
             "owner": "tensorflow",
             "repo": "models",
             "stars": 77661,
@@ -1955,7 +1955,7 @@
                 "open_issues": 162,
                 "owner": "cvg",
                 "repo": "Hierarchical-Localization",
-                "stars": 4201,
+                "stars": 4202,
                 "topics": [
                   "deep-learning",
                   "feature-matching",
@@ -1984,7 +1984,7 @@
                 "open_issues": 1,
                 "owner": "luigifreda",
                 "repo": "pyslam",
-                "stars": 3404,
+                "stars": 3406,
                 "topics": [
                   "3d-reconstruction",
                   "depth-estimation",
@@ -2020,7 +2020,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T11:21:14.242Z",
+    "last_updated": "2026-09-04T11:24:36.048Z",
     "original_repository_info": {
       "archived": false,
       "description": "My personal note about local and global descriptor",
