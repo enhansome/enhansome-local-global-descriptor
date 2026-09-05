@@ -1352,11 +1352,11 @@
                 "id": 51117837,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-03T23:11:37Z",
+                "last_commit": "2026-09-05T00:14:58Z",
                 "open_issues": 1273,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77661,
+                "stars": 77662,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1421,11 +1421,11 @@
                 "id": 51117837,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-03T23:11:37Z",
+                "last_commit": "2026-09-05T00:14:58Z",
                 "open_issues": 1273,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77661,
+                "stars": 77662,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1677,11 +1677,11 @@
             "id": 51117837,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-03T23:11:37Z",
+            "last_commit": "2026-09-05T00:14:58Z",
             "open_issues": 1273,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77661,
+            "stars": 77662,
             "topics": []
           },
           "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1984,7 +1984,7 @@
                 "open_issues": 1,
                 "owner": "luigifreda",
                 "repo": "pyslam",
-                "stars": 3406,
+                "stars": 3405,
                 "topics": [
                   "3d-reconstruction",
                   "depth-estimation",
@@ -2020,7 +2020,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T11:24:36.048Z",
+    "last_updated": "2026-09-05T10:41:05.709Z",
     "original_repository_info": {
       "archived": false,
       "description": "My personal note about local and global descriptor",
