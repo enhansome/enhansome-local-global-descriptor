@@ -1024,7 +1024,7 @@
                 "open_issues": 60,
                 "owner": "magicleap",
                 "repo": "SuperGluePretrainedNetwork",
-                "stars": 4080,
+                "stars": 4082,
                 "topics": [
                   "deep-learning",
                   "feature-matching",
@@ -1353,10 +1353,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-05T00:14:58Z",
-                "open_issues": 1273,
+                "open_issues": 1274,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77661,
+                "stars": 77657,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1422,10 +1422,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-05T00:14:58Z",
-                "open_issues": 1273,
+                "open_issues": 1274,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77661,
+                "stars": 77657,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1678,10 +1678,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-05T00:14:58Z",
-            "open_issues": 1273,
+            "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77661,
+            "stars": 77657,
             "topics": []
           },
           "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1844,7 +1844,7 @@
                 "open_issues": 8,
                 "owner": "filipradenovic",
                 "repo": "revisitop",
-                "stars": 271,
+                "stars": 270,
                 "topics": [
                   "image-retrieval",
                   "matlab",
@@ -1955,7 +1955,7 @@
                 "open_issues": 162,
                 "owner": "cvg",
                 "repo": "Hierarchical-Localization",
-                "stars": 4203,
+                "stars": 4204,
                 "topics": [
                   "deep-learning",
                   "feature-matching",
@@ -2020,7 +2020,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T12:41:47.602Z",
+    "last_updated": "2026-09-08T11:24:58.534Z",
     "original_repository_info": {
       "archived": false,
       "description": "My personal note about local and global descriptor",
