@@ -775,7 +775,7 @@
                 "open_issues": 48,
                 "owner": "rpautrat",
                 "repo": "SuperPoint",
-                "stars": 2513,
+                "stars": 2515,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1024,7 +1024,7 @@
                 "open_issues": 60,
                 "owner": "magicleap",
                 "repo": "SuperGluePretrainedNetwork",
-                "stars": 4082,
+                "stars": 4083,
                 "topics": [
                   "deep-learning",
                   "feature-matching",
@@ -1352,11 +1352,11 @@
                 "id": 51117837,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-05T00:14:58Z",
+                "last_commit": "2026-09-09T03:15:30Z",
                 "open_issues": 1274,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77657,
+                "stars": 77658,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1421,11 +1421,11 @@
                 "id": 51117837,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-05T00:14:58Z",
+                "last_commit": "2026-09-09T03:15:30Z",
                 "open_issues": 1274,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77657,
+                "stars": 77658,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1677,11 +1677,11 @@
             "id": 51117837,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-05T00:14:58Z",
+            "last_commit": "2026-09-09T03:15:30Z",
             "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77657,
+            "stars": 77658,
             "topics": []
           },
           "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1952,7 +1952,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2025-12-10T10:00:19Z",
-                "open_issues": 162,
+                "open_issues": 163,
                 "owner": "cvg",
                 "repo": "Hierarchical-Localization",
                 "stars": 4204,
@@ -2020,7 +2020,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T11:24:58.534Z",
+    "last_updated": "2026-09-09T11:30:11.013Z",
     "original_repository_info": {
       "archived": false,
       "description": "My personal note about local and global descriptor",
