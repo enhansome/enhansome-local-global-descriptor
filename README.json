@@ -775,7 +775,7 @@
                 "open_issues": 48,
                 "owner": "rpautrat",
                 "repo": "SuperPoint",
-                "stars": 2516,
+                "stars": 2518,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1024,7 +1024,7 @@
                 "open_issues": 60,
                 "owner": "magicleap",
                 "repo": "SuperGluePretrainedNetwork",
-                "stars": 4086,
+                "stars": 4088,
                 "topics": [
                   "deep-learning",
                   "feature-matching",
@@ -1352,7 +1352,7 @@
                 "id": 51117837,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-09T03:15:30Z",
+                "last_commit": "2026-09-10T20:22:01Z",
                 "open_issues": 1274,
                 "owner": "tensorflow",
                 "repo": "models",
@@ -1421,7 +1421,7 @@
                 "id": 51117837,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-09T03:15:30Z",
+                "last_commit": "2026-09-10T20:22:01Z",
                 "open_issues": 1274,
                 "owner": "tensorflow",
                 "repo": "models",
@@ -1677,7 +1677,7 @@
             "id": 51117837,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-09T03:15:30Z",
+            "last_commit": "2026-09-10T20:22:01Z",
             "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
@@ -1984,7 +1984,7 @@
                 "open_issues": 1,
                 "owner": "luigifreda",
                 "repo": "pyslam",
-                "stars": 3406,
+                "stars": 3408,
                 "topics": [
                   "3d-reconstruction",
                   "depth-estimation",
@@ -2020,7 +2020,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T11:26:40.375Z",
+    "last_updated": "2026-09-11T11:28:34.599Z",
     "original_repository_info": {
       "archived": false,
       "description": "My personal note about local and global descriptor",
