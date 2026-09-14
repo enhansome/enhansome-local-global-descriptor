@@ -615,7 +615,7 @@
                 "open_issues": 15,
                 "owner": "lzx551402",
                 "repo": "ASLFeat",
-                "stars": 316,
+                "stars": 317,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -775,7 +775,7 @@
                 "open_issues": 48,
                 "owner": "rpautrat",
                 "repo": "SuperPoint",
-                "stars": 2519,
+                "stars": 2520,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1332,7 +1332,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2021-05-19T09:07:28Z",
-                "open_issues": 14,
+                "open_issues": 15,
                 "owner": "naver",
                 "repo": "deep-image-retrieval",
                 "stars": 681,
@@ -1356,7 +1356,7 @@
                 "open_issues": 1274,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77660,
+                "stars": 77659,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1401,7 +1401,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2021-05-19T09:07:28Z",
-                "open_issues": 14,
+                "open_issues": 15,
                 "owner": "naver",
                 "repo": "deep-image-retrieval",
                 "stars": 681,
@@ -1425,7 +1425,7 @@
                 "open_issues": 1274,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77660,
+                "stars": 77659,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1681,7 +1681,7 @@
             "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77660,
+            "stars": 77659,
             "topics": []
           },
           "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1955,7 +1955,7 @@
                 "open_issues": 163,
                 "owner": "cvg",
                 "repo": "Hierarchical-Localization",
-                "stars": 4205,
+                "stars": 4207,
                 "topics": [
                   "deep-learning",
                   "feature-matching",
@@ -1984,7 +1984,7 @@
                 "open_issues": 1,
                 "owner": "luigifreda",
                 "repo": "pyslam",
-                "stars": 3408,
+                "stars": 3411,
                 "topics": [
                   "3d-reconstruction",
                   "depth-estimation",
@@ -2020,7 +2020,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T11:58:19.896Z",
+    "last_updated": "2026-09-14T12:56:32.467Z",
     "original_repository_info": {
       "archived": false,
       "description": "My personal note about local and global descriptor",
