@@ -775,7 +775,7 @@
                 "open_issues": 48,
                 "owner": "rpautrat",
                 "repo": "SuperPoint",
-                "stars": 2522,
+                "stars": 2523,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1024,7 +1024,7 @@
                 "open_issues": 60,
                 "owner": "magicleap",
                 "repo": "SuperGluePretrainedNetwork",
-                "stars": 4089,
+                "stars": 4090,
                 "topics": [
                   "deep-learning",
                   "feature-matching",
@@ -1377,7 +1377,7 @@
                 "open_issues": 34,
                 "owner": "filipradenovic",
                 "repo": "cnnimageretrieval-pytorch",
-                "stars": 1498,
+                "stars": 1499,
                 "topics": [
                   "cnn",
                   "convolutional-neural-networks",
@@ -1446,7 +1446,7 @@
                 "open_issues": 34,
                 "owner": "filipradenovic",
                 "repo": "cnnimageretrieval-pytorch",
-                "stars": 1498,
+                "stars": 1499,
                 "topics": [
                   "cnn",
                   "convolutional-neural-networks",
@@ -1922,7 +1922,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-04-17T09:46:26Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "naver",
                 "repo": "kapture",
                 "stars": 542,
@@ -2020,7 +2020,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T11:22:55.014Z",
+    "last_updated": "2026-09-19T11:06:43.077Z",
     "original_repository_info": {
       "archived": false,
       "description": "My personal note about local and global descriptor",
