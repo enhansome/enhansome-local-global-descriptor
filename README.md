@@ -48,7 +48,7 @@ This subsection includes the review about keypoint detection and it's orientatio
 | \[CVPR17] | Learning Discriminative and Transformation Covariant Local Feature Detectors             | [PDF](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhang_Learning_Discriminative_and_CVPR_2017_paper.pdf)                                                | [Github](https://github.com/ColumbiaDVMM/Transform_Covariant_Detector) ⭐ 36 \| 🐛 2 \| 🌐 Matlab \| 📅 2017-09-08 |
 | \[CVPR17] | Quad-networks: unsupervised learning to rank for interest point detection                | [PDF](https://inf.ethz.ch/personal/ladickyl/quad_cvpr17.pdf)                                                                                                      | -                                                                                                                 |
 | \[CVPR16] | Learning to Assign Orientations to Feature Poitns                                        | -                                                                                                                                                                 | [Github](https://github.com/vcg-uvic/learn-orientation) ⭐ 8 \| 🐛 1 \| 🌐 Python \| 📅 2017-11-18                 |
-| \[CVPR15] | TILDE: a Temporally Invariant Learned DEtector                                           | [arXiv](https://arxiv.org/abs/1411.4568)                                                                                                                          | [Github](https://github.com/vcg-uvic/TILDE) ⭐ 50 \| 🐛 2 \| 🌐 MATLAB \| 📅 2020-01-06                            |
+| \[CVPR15] | TILDE: a Temporally Invariant Learned DEtector                                           | [arXiv](https://arxiv.org/abs/1411.4568)                                                                                                                          | [Github](https://github.com/vcg-uvic/TILDE) ⭐ 51 \| 🐛 2 \| 🌐 MATLAB \| 📅 2020-01-06                            |
 
 * 3D
 
@@ -345,9 +345,9 @@ Some works try to cover both local descriptor and global retrieval due to the sh
 | Year    | Paper                                        | link                                                                                                       |
 | ------- | -------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
 | \[2020] | Kapture                                      | [github](https://github.com/naver/kapture) ⭐ 542 \| 🐛 1 \| 🌐 Python \| 📅 2026-04-17                     |
-| \[2020] | hloc - the hierarchical localization toolbox | [github](https://github.com/cvg/Hierarchical-Localization) ⭐ 4,223 \| 🐛 166 \| 🌐 Python \| 📅 2025-12-10 |
+| \[2020] | hloc - the hierarchical localization toolbox | [github](https://github.com/cvg/Hierarchical-Localization) ⭐ 4,224 \| 🐛 166 \| 🌐 Python \| 📅 2025-12-10 |
 | \[2020] | pyslamv2                                     | [github](https://github.com/luigifreda/pyslam) ⭐ 3,420 \| 🐛 2 \| 🌐 Python \| 📅 2026-08-23               |
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
