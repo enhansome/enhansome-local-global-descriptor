@@ -1921,8 +1921,8 @@
                 "id": 275164995,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-04-17T09:46:26Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-28T07:04:20Z",
+                "open_issues": 0,
                 "owner": "naver",
                 "repo": "kapture",
                 "stars": 542,
@@ -1955,7 +1955,7 @@
                 "open_issues": 166,
                 "owner": "cvg",
                 "repo": "Hierarchical-Localization",
-                "stars": 4224,
+                "stars": 4225,
                 "topics": [
                   "deep-learning",
                   "feature-matching",
@@ -1984,7 +1984,7 @@
                 "open_issues": 2,
                 "owner": "luigifreda",
                 "repo": "pyslam",
-                "stars": 3420,
+                "stars": 3422,
                 "topics": [
                   "3d-reconstruction",
                   "depth-estimation",
@@ -2020,7 +2020,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T12:09:05.458Z",
+    "last_updated": "2026-09-28T14:04:41.877Z",
     "original_repository_info": {
       "archived": false,
       "description": "My personal note about local and global descriptor",
