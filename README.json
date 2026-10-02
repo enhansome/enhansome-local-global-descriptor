@@ -1024,7 +1024,7 @@
                 "open_issues": 60,
                 "owner": "magicleap",
                 "repo": "SuperGluePretrainedNetwork",
-                "stars": 4091,
+                "stars": 4092,
                 "topics": [
                   "deep-learning",
                   "feature-matching",
@@ -1352,11 +1352,11 @@
                 "id": 51117837,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-01T02:32:00Z",
+                "last_commit": "2026-10-01T16:19:37Z",
                 "open_issues": 1272,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77652,
+                "stars": 77653,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1377,7 +1377,7 @@
                 "open_issues": 34,
                 "owner": "filipradenovic",
                 "repo": "cnnimageretrieval-pytorch",
-                "stars": 1499,
+                "stars": 1500,
                 "topics": [
                   "cnn",
                   "convolutional-neural-networks",
@@ -1421,11 +1421,11 @@
                 "id": 51117837,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-01T02:32:00Z",
+                "last_commit": "2026-10-01T16:19:37Z",
                 "open_issues": 1272,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77652,
+                "stars": 77653,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1446,7 +1446,7 @@
                 "open_issues": 34,
                 "owner": "filipradenovic",
                 "repo": "cnnimageretrieval-pytorch",
-                "stars": 1499,
+                "stars": 1500,
                 "topics": [
                   "cnn",
                   "convolutional-neural-networks",
@@ -1677,11 +1677,11 @@
             "id": 51117837,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-01T02:32:00Z",
+            "last_commit": "2026-10-01T16:19:37Z",
             "open_issues": 1272,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77652,
+            "stars": 77653,
             "topics": []
           },
           "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1730,7 +1730,7 @@
             "language": null,
             "license": null,
             "last_commit": "2025-09-08T02:21:12Z",
-            "open_issues": 29,
+            "open_issues": 30,
             "owner": "YoYo000",
             "repo": "BlendedMVS",
             "stars": 687,
@@ -1757,7 +1757,7 @@
             "language": null,
             "license": null,
             "last_commit": "2025-09-08T02:21:12Z",
-            "open_issues": 29,
+            "open_issues": 30,
             "owner": "YoYo000",
             "repo": "BlendedMVS",
             "stars": 687,
@@ -1952,10 +1952,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2025-12-10T10:00:19Z",
-                "open_issues": 167,
+                "open_issues": 166,
                 "owner": "cvg",
                 "repo": "Hierarchical-Localization",
-                "stars": 4226,
+                "stars": 4227,
                 "topics": [
                   "deep-learning",
                   "feature-matching",
@@ -1984,7 +1984,7 @@
                 "open_issues": 3,
                 "owner": "luigifreda",
                 "repo": "pyslam",
-                "stars": 3424,
+                "stars": 3426,
                 "topics": [
                   "3d-reconstruction",
                   "depth-estimation",
@@ -2020,7 +2020,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T13:25:52.425Z",
+    "last_updated": "2026-10-02T12:44:44.342Z",
     "original_repository_info": {
       "archived": false,
       "description": "My personal note about local and global descriptor",
