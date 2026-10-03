@@ -126,7 +126,7 @@ Recently, more and more papers try to embed the whole matching pipeline (keypoin
 | \[CVPR19]  | RF-Net: An End-to-End Image Matching Network based on Receptive Field                         | [arXiv](https://arxiv.org/abs/1906.00604)                                                                                                         | [Github](https://github.com/Xylon-Sean/rfnet) ⭐ 136 \| 🐛 16 \| 🌐 Python \| 📅 2021-10-12                                                                                                                                      |
 | \[CVPR19]  | D2-Net: A Trainable CNN for Joint Description and Detection of Local Features                 | [arXiv](https://arxiv.org/pdf/1905.03561),[Page](https://dsmn.ml/publications/d2-net.html)                                                        | [Github](https://github.com/mihaidusmanu/d2-net) ⭐ 847 \| 🐛 12 \| 🌐 Jupyter Notebook \| 📅 2024-04-08                                                                                                                         |
 | \[BMVC19]  | Matching Features without Descriptors: Implicitly Matched Interest Points                     | [PDF](http://rpg.ifi.uzh.ch/docs/BMVC19_Cieslewski.pdf)                                                                                           | [github](https://github.com/uzh-rpg/imips_open) ⭐ 73 \| 🐛 3 \| 🌐 Python \| 📅 2019-08-19                                                                                                                                      |
-| \[CVPRW18] | SuperPoint: Self-Supervised Interest Point Detection and Description                          | [arXiv](https://arxiv.org/abs/1712.07629)                                                                                                         | [Github](https://github.com/rpautrat/SuperPoint) ⭐ 2,529 \| 🐛 48 \| 🌐 Jupyter Notebook \| 📅 2025-05-05,[3rd\_party](https://github.com/eric-yyjau/pytorch-superpoint) ⭐ 934 \| 🐛 61 \| 🌐 Jupyter Notebook \| 📅 2023-08-11 |
+| \[CVPRW18] | SuperPoint: Self-Supervised Interest Point Detection and Description                          | [arXiv](https://arxiv.org/abs/1712.07629)                                                                                                         | [Github](https://github.com/rpautrat/SuperPoint) ⭐ 2,530 \| 🐛 48 \| 🌐 Jupyter Notebook \| 📅 2025-05-05,[3rd\_party](https://github.com/eric-yyjau/pytorch-superpoint) ⭐ 934 \| 🐛 61 \| 🌐 Jupyter Notebook \| 📅 2023-08-11 |
 | \[NIPS18]  | LF-Net: Learning Local Features from Images                                                   | [PDF](https://papers.nips.cc/paper/7861-lf-net-learning-local-features-from-images.pdf)                                                           | [Github](https://github.com/vcg-uvic/lf-net-release) ⭐ 321 \| 🐛 14 \| 🌐 Python \| 📅 2022-11-21                                                                                                                               |
 | \[ECCV16]  | LIFT: Learned Invariant Feature Points                                                        | -                                                                                                                                                 | [Github](https://github.com/cvlab-epfl/LIFT) ⭐ 494 \| 🐛 1 \| 🌐 Python \| 📅 2017-11-06                                                                                                                                        |
 
@@ -298,7 +298,7 @@ Some works try to cover both local descriptor and global retrieval due to the sh
 | Year      | Paper                                                                                               | link                                      | Code                                                                                          |
 | --------- | --------------------------------------------------------------------------------------------------- | ----------------------------------------- | --------------------------------------------------------------------------------------------- |
 | \[CVPR20] | Fast-MVSNet: Sparse-to-Dense Multi-View Stereo With Learned Propagation and Gauss-Newton Refinement | [arXiv](https://arxiv.org/abs/2003.13017) | [github](https://github.com/svip-lab/FastMVSNet) ⭐ 258 \| 🐛 15 \| 🌐 Python \| 📅 2020-03-31 |
-| \[CVPR20] | BlendedMVS: A Large-scale Dataset for Generalized Multi-view Stereo Networks                        | [arXiv](https://arxiv.org/abs/1911.10127) | [github](https://github.com/YoYo000/BlendedMVS) ⭐ 687 \| 🐛 30 \| 📅 2025-09-08               |
+| \[CVPR20] | BlendedMVS: A Large-scale Dataset for Generalized Multi-view Stereo Networks                        | [arXiv](https://arxiv.org/abs/1911.10127) | [github](https://github.com/YoYo000/BlendedMVS) ⭐ 687 \| 🐛 31 \| 📅 2026-10-03               |
 
 # View Synthesis/Novel view/Image completion
 
@@ -306,7 +306,7 @@ Some works try to cover both local descriptor and global retrieval due to the sh
 | ---------- | ----------------------------------------------------------------------------------------- | ----------------------------------------- | ------------------------------------------------------------------------------- |
 | \[ECCV20]  | Flow-edge Guided Video Completion                                                         | [arXiv](https://arxiv.org/abs/2009.01835) | [link](http://chengao.vision/FGVC/)                                             |
 | \[arXiv20] | Reference Pose Generation for Visual Localization via Learned Features and View Synthesis | [arXiv](https://arxiv.org/abs/2005.05179) | -                                                                               |
-| \[CVPR20]  | BlendedMVS: A Large-scale Dataset for Generalized Multi-view Stereo Networks              | [arXiv](https://arxiv.org/abs/1911.10127) | [github](https://github.com/YoYo000/BlendedMVS) ⭐ 687 \| 🐛 30 \| 📅 2025-09-08 |
+| \[CVPR20]  | BlendedMVS: A Large-scale Dataset for Generalized Multi-view Stereo Networks              | [arXiv](https://arxiv.org/abs/1911.10127) | [github](https://github.com/YoYo000/BlendedMVS) ⭐ 687 \| 🐛 31 \| 📅 2026-10-03 |
 
 # Segmentation localization
 
@@ -345,8 +345,8 @@ Some works try to cover both local descriptor and global retrieval due to the sh
 | Year    | Paper                                        | link                                                                                                       |
 | ------- | -------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
 | \[2020] | Kapture                                      | [github](https://github.com/naver/kapture) ⭐ 542 \| 🐛 0 \| 🌐 Python \| 📅 2026-09-28                     |
-| \[2020] | hloc - the hierarchical localization toolbox | [github](https://github.com/cvg/Hierarchical-Localization) ⭐ 4,228 \| 🐛 168 \| 🌐 Python \| 📅 2025-12-10 |
-| \[2020] | pyslamv2                                     | [github](https://github.com/luigifreda/pyslam) ⭐ 3,426 \| 🐛 3 \| 🌐 Python \| 📅 2026-08-23               |
+| \[2020] | hloc - the hierarchical localization toolbox | [github](https://github.com/cvg/Hierarchical-Localization) ⭐ 4,229 \| 🐛 168 \| 🌐 Python \| 📅 2025-12-10 |
+| \[2020] | pyslamv2                                     | [github](https://github.com/luigifreda/pyslam) ⭐ 3,426 \| 🐛 1 \| 🌐 Python \| 📅 2026-10-03               |
 
 ***
 

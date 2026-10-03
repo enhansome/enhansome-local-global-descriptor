@@ -775,7 +775,7 @@
                 "open_issues": 48,
                 "owner": "rpautrat",
                 "repo": "SuperPoint",
-                "stars": 2529,
+                "stars": 2530,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1685,8 +1685,8 @@
             "id": 223414731,
             "language": null,
             "license": null,
-            "last_commit": "2025-09-08T02:21:12Z",
-            "open_issues": 30,
+            "last_commit": "2026-10-03T08:30:38Z",
+            "open_issues": 31,
             "owner": "YoYo000",
             "repo": "BlendedMVS",
             "stars": 687,
@@ -1712,8 +1712,8 @@
             "id": 223414731,
             "language": null,
             "license": null,
-            "last_commit": "2025-09-08T02:21:12Z",
-            "open_issues": 30,
+            "last_commit": "2026-10-03T08:30:38Z",
+            "open_issues": 31,
             "owner": "YoYo000",
             "repo": "BlendedMVS",
             "stars": 687,
@@ -1911,7 +1911,7 @@
                 "open_issues": 168,
                 "owner": "cvg",
                 "repo": "Hierarchical-Localization",
-                "stars": 4228,
+                "stars": 4229,
                 "topics": [
                   "deep-learning",
                   "feature-matching",
@@ -1936,8 +1936,8 @@
                 "id": 179858671,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-23T07:25:36Z",
-                "open_issues": 3,
+                "last_commit": "2026-10-03T11:09:47Z",
+                "open_issues": 1,
                 "owner": "luigifreda",
                 "repo": "pyslam",
                 "stars": 3426,
@@ -1976,7 +1976,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:53:05.293Z",
+    "last_updated": "2026-10-03T11:44:52.268Z",
     "original_repository_info": {
       "archived": false,
       "description": "My personal note about local and global descriptor",
