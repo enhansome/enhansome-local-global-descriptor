@@ -858,50 +858,6 @@
           "children": [
             {
               "node_type": "item",
-              "title": "[ICRA20]",
-              "description": "GN-Net: The Gauss-Newton Loss for Multi-Weather Relocalization arXiv, MyNote Web",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "My personal note about local and global descriptor",
-                "homepage": null,
-                "id": 224772470,
-                "language": null,
-                "license": null,
-                "last_commit": "2020-10-21T14:47:27Z",
-                "open_issues": 0,
-                "owner": "shamangary",
-                "repo": "awesome-local-global-descriptor",
-                "stars": 650,
-                "topics": [
-                  "awesome",
-                  "awesome-list",
-                  "cbir",
-                  "cnn",
-                  "descriptor",
-                  "global",
-                  "keypoint",
-                  "local",
-                  "local-descriptors",
-                  "local-descriptors-cnns",
-                  "local-features",
-                  "matching",
-                  "network",
-                  "retrieval",
-                  "sift"
-                ]
-              },
-              "first_seen": "2026-08-28T18:47:05.447Z"
-            }
-          ],
-          "description": "Unlike local keypoint descriptor depends on keypoint, some works try to get the whole dense descriptor representation.",
-          "node_type": "group",
-          "title": "3.5. Dense descriptor"
-        },
-        {
-          "children": [
-            {
-              "node_type": "item",
               "title": "[ECCV20]",
               "description": "Making Affine Correspondences Work in Camera Geometry Computation arXiv github",
               "children": [],
@@ -1353,7 +1309,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-01T16:19:37Z",
-                "open_issues": 1272,
+                "open_issues": 1271,
                 "owner": "tensorflow",
                 "repo": "models",
                 "stars": 77653,
@@ -1422,7 +1378,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-01T16:19:37Z",
-                "open_issues": 1272,
+                "open_issues": 1271,
                 "owner": "tensorflow",
                 "repo": "models",
                 "stars": 77653,
@@ -1678,7 +1634,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-01T16:19:37Z",
-            "open_issues": 1272,
+            "open_issues": 1271,
             "owner": "tensorflow",
             "repo": "models",
             "stars": 77653,
@@ -1952,10 +1908,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2025-12-10T10:00:19Z",
-                "open_issues": 166,
+                "open_issues": 168,
                 "owner": "cvg",
                 "repo": "Hierarchical-Localization",
-                "stars": 4227,
+                "stars": 4228,
                 "topics": [
                   "deep-learning",
                   "feature-matching",
@@ -2020,7 +1976,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T12:44:44.342Z",
+    "last_updated": "2026-10-03T04:53:05.293Z",
     "original_repository_info": {
       "archived": false,
       "description": "My personal note about local and global descriptor",
