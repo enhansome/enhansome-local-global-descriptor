@@ -1312,7 +1312,7 @@
                 "open_issues": 1271,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77653,
+                "stars": 77656,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1381,7 +1381,7 @@
                 "open_issues": 1271,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77653,
+                "stars": 77656,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1637,7 +1637,7 @@
             "open_issues": 1271,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77653,
+            "stars": 77656,
             "topics": []
           },
           "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1685,8 +1685,8 @@
             "id": 223414731,
             "language": null,
             "license": null,
-            "last_commit": "2026-10-03T08:30:38Z",
-            "open_issues": 31,
+            "last_commit": "2026-10-03T16:38:17Z",
+            "open_issues": 30,
             "owner": "YoYo000",
             "repo": "BlendedMVS",
             "stars": 687,
@@ -1712,8 +1712,8 @@
             "id": 223414731,
             "language": null,
             "license": null,
-            "last_commit": "2026-10-03T08:30:38Z",
-            "open_issues": 31,
+            "last_commit": "2026-10-03T16:38:17Z",
+            "open_issues": 30,
             "owner": "YoYo000",
             "repo": "BlendedMVS",
             "stars": 687,
@@ -1976,7 +1976,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T11:44:52.268Z",
+    "last_updated": "2026-10-04T12:28:10.707Z",
     "original_repository_info": {
       "archived": false,
       "description": "My personal note about local and global descriptor",
