@@ -1312,7 +1312,7 @@
                 "open_issues": 1271,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77656,
+                "stars": 77657,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1381,7 +1381,7 @@
                 "open_issues": 1271,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77656,
+                "stars": 77657,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1637,7 +1637,7 @@
             "open_issues": 1271,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77656,
+            "stars": 77657,
             "topics": []
           },
           "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1911,7 +1911,7 @@
                 "open_issues": 168,
                 "owner": "cvg",
                 "repo": "Hierarchical-Localization",
-                "stars": 4229,
+                "stars": 4227,
                 "topics": [
                   "deep-learning",
                   "feature-matching",
@@ -1940,7 +1940,7 @@
                 "open_issues": 1,
                 "owner": "luigifreda",
                 "repo": "pyslam",
-                "stars": 3426,
+                "stars": 3427,
                 "topics": [
                   "3d-reconstruction",
                   "depth-estimation",
@@ -1976,7 +1976,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T12:28:10.707Z",
+    "last_updated": "2026-10-05T14:49:56.178Z",
     "original_repository_info": {
       "archived": false,
       "description": "My personal note about local and global descriptor",
