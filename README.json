@@ -21,7 +21,7 @@
                 "open_issues": 21,
                 "owner": "cherubicXN",
                 "repo": "hawp",
-                "stars": 378,
+                "stars": 379,
                 "topics": [
                   "cvpr2020",
                   "deep",
@@ -1312,7 +1312,7 @@
                 "open_issues": 1272,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77657,
+                "stars": 77656,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1381,7 +1381,7 @@
                 "open_issues": 1272,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77657,
+                "stars": 77656,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1637,7 +1637,7 @@
             "open_issues": 1272,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77657,
+            "stars": 77656,
             "topics": []
           },
           "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1911,7 +1911,7 @@
                 "open_issues": 168,
                 "owner": "cvg",
                 "repo": "Hierarchical-Localization",
-                "stars": 4227,
+                "stars": 4228,
                 "topics": [
                   "deep-learning",
                   "feature-matching",
@@ -1976,7 +1976,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:55:59.293Z",
+    "last_updated": "2026-10-06T13:23:33.662Z",
     "original_repository_info": {
       "archived": false,
       "description": "My personal note about local and global descriptor",
