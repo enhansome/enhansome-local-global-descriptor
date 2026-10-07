@@ -775,7 +775,7 @@
                 "open_issues": 48,
                 "owner": "rpautrat",
                 "repo": "SuperPoint",
-                "stars": 2530,
+                "stars": 2531,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1312,7 +1312,7 @@
                 "open_issues": 1272,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77656,
+                "stars": 77655,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1381,7 +1381,7 @@
                 "open_issues": 1272,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77656,
+                "stars": 77655,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1637,7 +1637,7 @@
             "open_issues": 1272,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77656,
+            "stars": 77655,
             "topics": []
           },
           "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1689,7 +1689,7 @@
             "open_issues": 30,
             "owner": "YoYo000",
             "repo": "BlendedMVS",
-            "stars": 687,
+            "stars": 686,
             "topics": []
           },
           "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1716,7 +1716,7 @@
             "open_issues": 30,
             "owner": "YoYo000",
             "repo": "BlendedMVS",
-            "stars": 687,
+            "stars": 686,
             "topics": []
           },
           "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1940,7 +1940,7 @@
                 "open_issues": 1,
                 "owner": "luigifreda",
                 "repo": "pyslam",
-                "stars": 3427,
+                "stars": 3428,
                 "topics": [
                   "3d-reconstruction",
                   "depth-estimation",
@@ -1976,7 +1976,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T13:23:33.662Z",
+    "last_updated": "2026-10-07T13:31:58.103Z",
     "original_repository_info": {
       "archived": false,
       "description": "My personal note about local and global descriptor",
