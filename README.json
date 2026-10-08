@@ -1308,7 +1308,7 @@
                 "id": 51117837,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-01T16:19:37Z",
+                "last_commit": "2026-10-07T22:41:53Z",
                 "open_issues": 1272,
                 "owner": "tensorflow",
                 "repo": "models",
@@ -1377,7 +1377,7 @@
                 "id": 51117837,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-01T16:19:37Z",
+                "last_commit": "2026-10-07T22:41:53Z",
                 "open_issues": 1272,
                 "owner": "tensorflow",
                 "repo": "models",
@@ -1633,7 +1633,7 @@
             "id": 51117837,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-01T16:19:37Z",
+            "last_commit": "2026-10-07T22:41:53Z",
             "open_issues": 1272,
             "owner": "tensorflow",
             "repo": "models",
@@ -1881,7 +1881,7 @@
                 "open_issues": 0,
                 "owner": "naver",
                 "repo": "kapture",
-                "stars": 542,
+                "stars": 543,
                 "topics": [
                   "colmap",
                   "image-retrieval",
@@ -1976,7 +1976,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T13:31:58.103Z",
+    "last_updated": "2026-10-08T13:37:52.087Z",
     "original_repository_info": {
       "archived": false,
       "description": "My personal note about local and global descriptor",
