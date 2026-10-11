@@ -291,7 +291,7 @@
                 "open_issues": 3,
                 "owner": "vbalnt",
                 "repo": "bold",
-                "stars": 32,
+                "stars": 33,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -980,7 +980,7 @@
                 "open_issues": 60,
                 "owner": "magicleap",
                 "repo": "SuperGluePretrainedNetwork",
-                "stars": 4093,
+                "stars": 4094,
                 "topics": [
                   "deep-learning",
                   "feature-matching",
@@ -1976,7 +1976,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T12:39:19.208Z",
+    "last_updated": "2026-10-11T12:58:51.068Z",
     "original_repository_info": {
       "archived": false,
       "description": "My personal note about local and global descriptor",
