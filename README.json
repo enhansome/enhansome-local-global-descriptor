@@ -518,7 +518,7 @@
                 "open_issues": 2,
                 "owner": "vbalnt",
                 "repo": "tfeat",
-                "stars": 150,
+                "stars": 149,
                 "topics": [
                   "deep-learning",
                   "descriptor",
@@ -775,7 +775,7 @@
                 "open_issues": 48,
                 "owner": "rpautrat",
                 "repo": "SuperPoint",
-                "stars": 2531,
+                "stars": 2530,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -893,7 +893,7 @@
                 "open_issues": 5,
                 "owner": "cavalli1234",
                 "repo": "AdaLAM",
-                "stars": 333,
+                "stars": 334,
                 "topics": [
                   "computervision",
                   "image-matching"
@@ -917,7 +917,7 @@
                 "open_issues": 15,
                 "owner": "danini",
                 "repo": "magsac",
-                "stars": 505,
+                "stars": 504,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1178,7 +1178,7 @@
                 "language": "Matlab",
                 "license": "MIT",
                 "last_commit": "2017-07-22T17:41:15Z",
-                "open_issues": 1,
+                "open_issues": 0,
                 "owner": "Relja",
                 "repo": "netvlad",
                 "stars": 612,
@@ -1312,7 +1312,7 @@
                 "open_issues": 1271,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77650,
+                "stars": 77649,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1381,7 +1381,7 @@
                 "open_issues": 1271,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77650,
+                "stars": 77649,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1616,7 +1616,7 @@
             "open_issues": 19,
             "owner": "ethz-asl",
             "repo": "hfnet",
-            "stars": 882,
+            "stars": 883,
             "topics": []
           },
           "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1637,7 +1637,7 @@
             "open_issues": 1271,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77650,
+            "stars": 77649,
             "topics": []
           },
           "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1853,7 +1853,7 @@
                 "open_issues": 6,
                 "owner": "tsattler",
                 "repo": "visuallocalizationbenchmark",
-                "stars": 356,
+                "stars": 357,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1911,7 +1911,7 @@
                 "open_issues": 168,
                 "owner": "cvg",
                 "repo": "Hierarchical-Localization",
-                "stars": 4232,
+                "stars": 4234,
                 "topics": [
                   "deep-learning",
                   "feature-matching",
@@ -1940,7 +1940,7 @@
                 "open_issues": 1,
                 "owner": "luigifreda",
                 "repo": "pyslam",
-                "stars": 3428,
+                "stars": 3429,
                 "topics": [
                   "3d-reconstruction",
                   "depth-estimation",
@@ -1976,7 +1976,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T12:58:51.068Z",
+    "last_updated": "2026-10-12T15:36:39.722Z",
     "original_repository_info": {
       "archived": false,
       "description": "My personal note about local and global descriptor",
