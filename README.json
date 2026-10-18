@@ -68,7 +68,7 @@
                 "open_issues": 2,
                 "owner": "axelBarroso",
                 "repo": "Key.Net",
-                "stars": 212,
+                "stars": 213,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -664,7 +664,7 @@
                 "open_issues": 19,
                 "owner": "naver",
                 "repo": "r2d2",
-                "stars": 524,
+                "stars": 525,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1006,7 +1006,7 @@
                 "open_issues": 0,
                 "owner": "vcg-uvic",
                 "repo": "acne",
-                "stars": 55,
+                "stars": 56,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1102,7 +1102,7 @@
                 "open_issues": 11,
                 "owner": "vcg-uvic",
                 "repo": "learned-correspondence-release",
-                "stars": 259,
+                "stars": 260,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1312,7 +1312,7 @@
                 "open_issues": 1274,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77645,
+                "stars": 77644,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1381,7 +1381,7 @@
                 "open_issues": 1274,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77645,
+                "stars": 77644,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1637,7 +1637,7 @@
             "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77645,
+            "stars": 77644,
             "topics": []
           },
           "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1911,7 +1911,7 @@
                 "open_issues": 174,
                 "owner": "cvg",
                 "repo": "Hierarchical-Localization",
-                "stars": 4242,
+                "stars": 4243,
                 "topics": [
                   "deep-learning",
                   "feature-matching",
@@ -1976,7 +1976,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T10:51:25.318Z",
+    "last_updated": "2026-10-18T11:16:08.964Z",
     "original_repository_info": {
       "archived": false,
       "description": "My personal note about local and global descriptor",
