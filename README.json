@@ -366,7 +366,7 @@
                 "open_issues": 11,
                 "owner": "scape-research",
                 "repo": "SOSNet",
-                "stars": 139,
+                "stars": 140,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -775,7 +775,7 @@
                 "open_issues": 48,
                 "owner": "rpautrat",
                 "repo": "SuperPoint",
-                "stars": 2533,
+                "stars": 2534,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1312,7 +1312,7 @@
                 "open_issues": 1274,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77644,
+                "stars": 77645,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1381,7 +1381,7 @@
                 "open_issues": 1274,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77644,
+                "stars": 77645,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1616,7 +1616,7 @@
             "open_issues": 19,
             "owner": "ethz-asl",
             "repo": "hfnet",
-            "stars": 883,
+            "stars": 884,
             "topics": []
           },
           "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1637,7 +1637,7 @@
             "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77644,
+            "stars": 77645,
             "topics": []
           },
           "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1976,7 +1976,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T11:16:08.964Z",
+    "last_updated": "2026-10-19T13:28:05.986Z",
     "original_repository_info": {
       "archived": false,
       "description": "My personal note about local and global descriptor",
