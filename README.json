@@ -441,7 +441,7 @@
                 "open_issues": 0,
                 "owner": "shamangary",
                 "repo": "DeepCD",
-                "stars": 40,
+                "stars": 41,
                 "topics": [
                   "brown",
                   "complementary",
@@ -497,7 +497,7 @@
                 "open_issues": 2,
                 "owner": "vbalnt",
                 "repo": "pnnet",
-                "stars": 55,
+                "stars": 56,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -518,7 +518,7 @@
                 "open_issues": 2,
                 "owner": "vbalnt",
                 "repo": "tfeat",
-                "stars": 149,
+                "stars": 150,
                 "topics": [
                   "deep-learning",
                   "descriptor",
@@ -980,7 +980,7 @@
                 "open_issues": 60,
                 "owner": "magicleap",
                 "repo": "SuperGluePretrainedNetwork",
-                "stars": 4098,
+                "stars": 4099,
                 "topics": [
                   "deep-learning",
                   "feature-matching",
@@ -1291,7 +1291,7 @@
                 "open_issues": 15,
                 "owner": "naver",
                 "repo": "deep-image-retrieval",
-                "stars": 681,
+                "stars": 682,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1312,7 +1312,7 @@
                 "open_issues": 1274,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77645,
+                "stars": 77646,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1333,7 +1333,7 @@
                 "open_issues": 34,
                 "owner": "filipradenovic",
                 "repo": "cnnimageretrieval-pytorch",
-                "stars": 1500,
+                "stars": 1501,
                 "topics": [
                   "cnn",
                   "convolutional-neural-networks",
@@ -1360,7 +1360,7 @@
                 "open_issues": 15,
                 "owner": "naver",
                 "repo": "deep-image-retrieval",
-                "stars": 681,
+                "stars": 682,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1381,7 +1381,7 @@
                 "open_issues": 1274,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77645,
+                "stars": 77646,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1402,7 +1402,7 @@
                 "open_issues": 34,
                 "owner": "filipradenovic",
                 "repo": "cnnimageretrieval-pytorch",
-                "stars": 1500,
+                "stars": 1501,
                 "topics": [
                   "cnn",
                   "convolutional-neural-networks",
@@ -1637,7 +1637,7 @@
             "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77645,
+            "stars": 77646,
             "topics": []
           },
           "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1689,7 +1689,7 @@
             "open_issues": 30,
             "owner": "YoYo000",
             "repo": "BlendedMVS",
-            "stars": 686,
+            "stars": 687,
             "topics": []
           },
           "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1716,7 +1716,7 @@
             "open_issues": 30,
             "owner": "YoYo000",
             "repo": "BlendedMVS",
-            "stars": 686,
+            "stars": 687,
             "topics": []
           },
           "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1877,7 +1877,7 @@
                 "id": 275164995,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-15T09:43:23Z",
+                "last_commit": "2026-10-20T10:55:55Z",
                 "open_issues": 0,
                 "owner": "naver",
                 "repo": "kapture",
@@ -1911,7 +1911,7 @@
                 "open_issues": 174,
                 "owner": "cvg",
                 "repo": "Hierarchical-Localization",
-                "stars": 4243,
+                "stars": 4245,
                 "topics": [
                   "deep-learning",
                   "feature-matching",
@@ -1940,7 +1940,7 @@
                 "open_issues": 2,
                 "owner": "luigifreda",
                 "repo": "pyslam",
-                "stars": 3429,
+                "stars": 3430,
                 "topics": [
                   "3d-reconstruction",
                   "depth-estimation",
@@ -1976,7 +1976,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T13:28:05.986Z",
+    "last_updated": "2026-10-20T11:45:58.651Z",
     "original_repository_info": {
       "archived": false,
       "description": "My personal note about local and global descriptor",
