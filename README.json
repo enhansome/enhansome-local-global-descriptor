@@ -775,7 +775,7 @@
                 "open_issues": 48,
                 "owner": "rpautrat",
                 "repo": "SuperPoint",
-                "stars": 2534,
+                "stars": 2536,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -817,7 +817,7 @@
                 "open_issues": 1,
                 "owner": "cvlab-epfl",
                 "repo": "LIFT",
-                "stars": 494,
+                "stars": 495,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -980,7 +980,7 @@
                 "open_issues": 60,
                 "owner": "magicleap",
                 "repo": "SuperGluePretrainedNetwork",
-                "stars": 4101,
+                "stars": 4103,
                 "topics": [
                   "deep-learning",
                   "feature-matching",
@@ -1075,7 +1075,7 @@
                 "open_issues": 7,
                 "owner": "zjhthu",
                 "repo": "OANet",
-                "stars": 272,
+                "stars": 273,
                 "topics": [
                   "3d-reconstruction",
                   "graph-neural-network",
@@ -1308,11 +1308,11 @@
                 "id": 51117837,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-21T16:25:32Z",
+                "last_commit": "2026-10-23T03:36:49Z",
                 "open_issues": 1274,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77645,
+                "stars": 77647,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1377,11 +1377,11 @@
                 "id": 51117837,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-21T16:25:32Z",
+                "last_commit": "2026-10-23T03:36:49Z",
                 "open_issues": 1274,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77645,
+                "stars": 77647,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1595,7 +1595,7 @@
             "open_issues": 11,
             "owner": "lzx551402",
             "repo": "contextdesc",
-            "stars": 228,
+            "stars": 229,
             "topics": []
           },
           "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1633,11 +1633,11 @@
             "id": 51117837,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-21T16:25:32Z",
+            "last_commit": "2026-10-23T03:36:49Z",
             "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77645,
+            "stars": 77647,
             "topics": []
           },
           "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1877,7 +1877,7 @@
                 "id": 275164995,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-22T08:34:59Z",
+                "last_commit": "2026-10-23T07:47:15Z",
                 "open_issues": 0,
                 "owner": "naver",
                 "repo": "kapture",
@@ -1911,7 +1911,7 @@
                 "open_issues": 174,
                 "owner": "cvg",
                 "repo": "Hierarchical-Localization",
-                "stars": 4246,
+                "stars": 4248,
                 "topics": [
                   "deep-learning",
                   "feature-matching",
@@ -1976,7 +1976,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T11:59:57.423Z",
+    "last_updated": "2026-10-23T11:46:03.227Z",
     "original_repository_info": {
       "archived": false,
       "description": "My personal note about local and global descriptor",
