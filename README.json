@@ -232,7 +232,7 @@
                 "open_issues": 8,
                 "owner": "TRI-ML",
                 "repo": "KP3D",
-                "stars": 243,
+                "stars": 244,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1054,7 +1054,7 @@
                 "open_issues": 1,
                 "owner": "vislearn",
                 "repo": "ngransac",
-                "stars": 340,
+                "stars": 341,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1312,7 +1312,7 @@
                 "open_issues": 1274,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77647,
+                "stars": 77650,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1381,7 +1381,7 @@
                 "open_issues": 1274,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77647,
+                "stars": 77650,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1558,7 +1558,7 @@
                 "open_issues": 8,
                 "owner": "mikacuy",
                 "repo": "pointnetvlad",
-                "stars": 402,
+                "stars": 403,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -1616,7 +1616,7 @@
             "open_issues": 19,
             "owner": "ethz-asl",
             "repo": "hfnet",
-            "stars": 884,
+            "stars": 885,
             "topics": []
           },
           "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1637,7 +1637,7 @@
             "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77647,
+            "stars": 77650,
             "topics": []
           },
           "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1689,7 +1689,7 @@
             "open_issues": 30,
             "owner": "YoYo000",
             "repo": "BlendedMVS",
-            "stars": 687,
+            "stars": 688,
             "topics": []
           },
           "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1716,7 +1716,7 @@
             "open_issues": 30,
             "owner": "YoYo000",
             "repo": "BlendedMVS",
-            "stars": 687,
+            "stars": 688,
             "topics": []
           },
           "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1911,7 +1911,7 @@
                 "open_issues": 174,
                 "owner": "cvg",
                 "repo": "Hierarchical-Localization",
-                "stars": 4248,
+                "stars": 4249,
                 "topics": [
                   "deep-learning",
                   "feature-matching",
@@ -1936,7 +1936,7 @@
                 "id": 179858671,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-03T11:09:47Z",
+                "last_commit": "2026-10-24T09:39:42Z",
                 "open_issues": 2,
                 "owner": "luigifreda",
                 "repo": "pyslam",
@@ -1976,7 +1976,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T11:46:03.227Z",
+    "last_updated": "2026-10-24T11:10:42.374Z",
     "original_repository_info": {
       "archived": false,
       "description": "My personal note about local and global descriptor",
