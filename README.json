@@ -775,7 +775,7 @@
                 "open_issues": 48,
                 "owner": "rpautrat",
                 "repo": "SuperPoint",
-                "stars": 2536,
+                "stars": 2537,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1616,7 +1616,7 @@
             "open_issues": 19,
             "owner": "ethz-asl",
             "repo": "hfnet",
-            "stars": 885,
+            "stars": 884,
             "topics": []
           },
           "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1664,7 +1664,7 @@
             "open_issues": 15,
             "owner": "svip-lab",
             "repo": "FastMVSNet",
-            "stars": 258,
+            "stars": 259,
             "topics": [
               "cvpr2020",
               "multi-view-stereo",
@@ -1911,7 +1911,7 @@
                 "open_issues": 174,
                 "owner": "cvg",
                 "repo": "Hierarchical-Localization",
-                "stars": 4250,
+                "stars": 4251,
                 "topics": [
                   "deep-learning",
                   "feature-matching",
@@ -1936,11 +1936,11 @@
                 "id": 179858671,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-25T11:34:36Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-25T13:16:07Z",
+                "open_issues": 1,
                 "owner": "luigifreda",
                 "repo": "pyslam",
-                "stars": 3431,
+                "stars": 3432,
                 "topics": [
                   "3d-reconstruction",
                   "depth-estimation",
@@ -1976,7 +1976,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T11:40:11.174Z",
+    "last_updated": "2026-10-26T13:12:32.022Z",
     "original_repository_info": {
       "archived": false,
       "description": "My personal note about local and global descriptor",
@@ -1988,7 +1988,7 @@
       "open_issues": 0,
       "owner": "shamangary",
       "repo": "awesome-local-global-descriptor",
-      "stars": 651,
+      "stars": 652,
       "topics": [
         "awesome",
         "awesome-list",
