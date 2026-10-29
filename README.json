@@ -21,7 +21,7 @@
                 "open_issues": 21,
                 "owner": "cherubicXN",
                 "repo": "hawp",
-                "stars": 380,
+                "stars": 381,
                 "topics": [
                   "cvpr2020",
                   "deep",
@@ -387,7 +387,7 @@
                 "open_issues": 7,
                 "owner": "lzx551402",
                 "repo": "geodesc",
-                "stars": 192,
+                "stars": 193,
                 "topics": [
                   "deep-learning",
                   "eccv-2018"
@@ -706,7 +706,7 @@
                 "open_issues": 16,
                 "owner": "xuelunshen",
                 "repo": "rfnet",
-                "stars": 136,
+                "stars": 137,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -917,7 +917,7 @@
                 "open_issues": 16,
                 "owner": "danini",
                 "repo": "magsac",
-                "stars": 505,
+                "stars": 504,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1308,11 +1308,11 @@
                 "id": 51117837,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-27T18:26:26Z",
+                "last_commit": "2026-10-29T08:21:25Z",
                 "open_issues": 1276,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77644,
+                "stars": 77643,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1377,11 +1377,11 @@
                 "id": 51117837,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-27T18:26:26Z",
+                "last_commit": "2026-10-29T08:21:25Z",
                 "open_issues": 1276,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77644,
+                "stars": 77643,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1633,11 +1633,11 @@
             "id": 51117837,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-27T18:26:26Z",
+            "last_commit": "2026-10-29T08:21:25Z",
             "open_issues": 1276,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77644,
+            "stars": 77643,
             "topics": []
           },
           "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1911,7 +1911,7 @@
                 "open_issues": 174,
                 "owner": "cvg",
                 "repo": "Hierarchical-Localization",
-                "stars": 4253,
+                "stars": 4255,
                 "topics": [
                   "deep-learning",
                   "feature-matching",
@@ -1976,7 +1976,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T13:04:49.544Z",
+    "last_updated": "2026-10-29T13:11:02.524Z",
     "original_repository_info": {
       "archived": false,
       "description": "My personal note about local and global descriptor",
