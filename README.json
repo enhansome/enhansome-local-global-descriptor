@@ -775,7 +775,7 @@
                 "open_issues": 48,
                 "owner": "rpautrat",
                 "repo": "SuperPoint",
-                "stars": 2539,
+                "stars": 2540,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1027,7 +1027,7 @@
                 "open_issues": 6,
                 "owner": "XiSHEN0220",
                 "repo": "RANSAC-Flow",
-                "stars": 449,
+                "stars": 450,
                 "topics": [
                   "3d-reconstruction",
                   "art-image",
@@ -1291,7 +1291,7 @@
                 "open_issues": 15,
                 "owner": "naver",
                 "repo": "deep-image-retrieval",
-                "stars": 681,
+                "stars": 682,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1312,7 +1312,7 @@
                 "open_issues": 1276,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77642,
+                "stars": 77641,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1360,7 +1360,7 @@
                 "open_issues": 15,
                 "owner": "naver",
                 "repo": "deep-image-retrieval",
-                "stars": 681,
+                "stars": 682,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1381,7 +1381,7 @@
                 "open_issues": 1276,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77642,
+                "stars": 77641,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1558,7 +1558,7 @@
                 "open_issues": 8,
                 "owner": "mikacuy",
                 "repo": "pointnetvlad",
-                "stars": 403,
+                "stars": 404,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -1616,7 +1616,7 @@
             "open_issues": 19,
             "owner": "ethz-asl",
             "repo": "hfnet",
-            "stars": 885,
+            "stars": 886,
             "topics": []
           },
           "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1637,7 +1637,7 @@
             "open_issues": 1276,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77642,
+            "stars": 77641,
             "topics": []
           },
           "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1976,7 +1976,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T13:03:28.182Z",
+    "last_updated": "2026-10-31T12:41:49.690Z",
     "original_repository_info": {
       "archived": false,
       "description": "My personal note about local and global descriptor",
