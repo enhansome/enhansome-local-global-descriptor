@@ -775,7 +775,7 @@
                 "open_issues": 48,
                 "owner": "rpautrat",
                 "repo": "SuperPoint",
-                "stars": 2543,
+                "stars": 2544,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1312,7 +1312,7 @@
                 "open_issues": 1276,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77633,
+                "stars": 77634,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1381,7 +1381,7 @@
                 "open_issues": 1276,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77633,
+                "stars": 77634,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1637,7 +1637,7 @@
             "open_issues": 1276,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77633,
+            "stars": 77634,
             "topics": []
           },
           "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1911,7 +1911,7 @@
                 "open_issues": 174,
                 "owner": "cvg",
                 "repo": "Hierarchical-Localization",
-                "stars": 4261,
+                "stars": 4260,
                 "topics": [
                   "deep-learning",
                   "feature-matching",
@@ -1976,7 +1976,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T14:22:39.969Z",
+    "last_updated": "2026-11-07T13:11:47.046Z",
     "original_repository_info": {
       "archived": false,
       "description": "My personal note about local and global descriptor",
@@ -1985,7 +1985,7 @@
       "language": null,
       "license": null,
       "last_commit": "2020-10-21T14:47:27Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "shamangary",
       "repo": "awesome-local-global-descriptor",
       "stars": 652,
