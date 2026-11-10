@@ -270,7 +270,7 @@ Some works try to cover both local descriptor and global retrieval due to the sh
 | ---------- | ----------------------------------------------------------------------------------------------------------------- | ----------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
 | \[arXiv20] | UR2KiD: Unifying Retrieval, Keypoint Detection, and Keypoint Description without Local Correspondence Supervision | [arXiv](https://arxiv.org/abs/2001.07252) | -                                                                                                                           |
 | \[CVPR19]  | ContextDesc: Local Descriptor Augmentation with Cross-Modality Context                                            | -                                         | [Github](https://github.com/lzx551402/contextdesc) ⭐ 229 \| 🐛 11 \| 🌐 Python \| 📅 2023-04-12                             |
-| \[CVPR19]  | From Coarse to Fine: Robust Hierarchical Localization at Large Scale with HF-Net                                  | [arXiv](https://arxiv.org/pdf/1812.03506) | [Github](https://github.com/ethz-asl/hfnet) ⭐ 886 \| 🐛 19 \| 🌐 Python \| 📅 2024-07-25                                    |
+| \[CVPR19]  | From Coarse to Fine: Robust Hierarchical Localization at Large Scale with HF-Net                                  | [arXiv](https://arxiv.org/pdf/1812.03506) | [Github](https://github.com/ethz-asl/hfnet) ⭐ 887 \| 🐛 19 \| 🌐 Python \| 📅 2024-07-25                                    |
 | \[ICCV17]  | Large-Scale Image Retrieval with Attentive Deep Local Features (DELF)                                             | -                                         | [Github](https://github.com/tensorflow/models/tree/master/research/delf) ⭐ 77,634 \| 🐛 1,274 \| 🌐 Python \| 📅 2026-11-02 |
 
 # Reivew type paper
@@ -344,10 +344,10 @@ Some works try to cover both local descriptor and global retrieval due to the sh
 
 | Year    | Paper                                        | link                                                                                                       |
 | ------- | -------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| \[2020] | Kapture                                      | [github](https://github.com/naver/kapture) ⭐ 546 \| 🐛 0 \| 🌐 Python \| 📅 2026-10-23                     |
-| \[2020] | hloc - the hierarchical localization toolbox | [github](https://github.com/cvg/Hierarchical-Localization) ⭐ 4,264 \| 🐛 174 \| 🌐 Python \| 📅 2025-12-10 |
-| \[2020] | pyslamv2                                     | [github](https://github.com/luigifreda/pyslam) ⭐ 3,438 \| 🐛 1 \| 🌐 Python \| 📅 2026-10-25               |
+| \[2020] | Kapture                                      | [github](https://github.com/naver/kapture) ⭐ 546 \| 🐛 0 \| 🌐 Python \| 📅 2026-11-10                     |
+| \[2020] | hloc - the hierarchical localization toolbox | [github](https://github.com/cvg/Hierarchical-Localization) ⭐ 4,265 \| 🐛 174 \| 🌐 Python \| 📅 2025-12-10 |
+| \[2020] | pyslamv2                                     | [github](https://github.com/luigifreda/pyslam) ⭐ 3,437 \| 🐛 1 \| 🌐 Python \| 📅 2026-10-25               |
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
