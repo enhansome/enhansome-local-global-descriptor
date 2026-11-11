@@ -727,7 +727,7 @@
                 "open_issues": 12,
                 "owner": "mihaidusmanu",
                 "repo": "d2-net",
-                "stars": 848,
+                "stars": 847,
                 "topics": [
                   "cnn",
                   "cvpr2019",
@@ -838,7 +838,7 @@
                 "open_issues": 9,
                 "owner": "XuyangBai",
                 "repo": "D3Feat.pytorch",
-                "stars": 156,
+                "stars": 157,
                 "topics": [
                   "3d",
                   "descriptor",
@@ -893,7 +893,7 @@
                 "open_issues": 5,
                 "owner": "cavalli1234",
                 "repo": "AdaLAM",
-                "stars": 334,
+                "stars": 335,
                 "topics": [
                   "computervision",
                   "image-matching"
@@ -928,7 +928,7 @@
               "description": "Two-View Geometry Estimation Unaffected by a Dominant Plane PDF Github",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "Fast and accurate python RANSAC with LO, LAF-check ",
                 "homepage": null,
                 "id": 201058804,
@@ -1312,7 +1312,7 @@
                 "open_issues": 1274,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77634,
+                "stars": 77635,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1381,7 +1381,7 @@
                 "open_issues": 1274,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77634,
+                "stars": 77635,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1637,7 +1637,7 @@
             "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77634,
+            "stars": 77635,
             "topics": []
           },
           "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1911,7 +1911,7 @@
                 "open_issues": 174,
                 "owner": "cvg",
                 "repo": "Hierarchical-Localization",
-                "stars": 4265,
+                "stars": 4266,
                 "topics": [
                   "deep-learning",
                   "feature-matching",
@@ -1976,7 +1976,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T14:58:28.770Z",
+    "last_updated": "2026-11-11T14:29:40.471Z",
     "original_repository_info": {
       "archived": false,
       "description": "My personal note about local and global descriptor",
