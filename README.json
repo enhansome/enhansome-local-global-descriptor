@@ -664,7 +664,7 @@
                 "open_issues": 19,
                 "owner": "naver",
                 "repo": "r2d2",
-                "stars": 523,
+                "stars": 522,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1312,7 +1312,7 @@
                 "open_issues": 1274,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77635,
+                "stars": 77634,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1381,7 +1381,7 @@
                 "open_issues": 1274,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77635,
+                "stars": 77634,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1637,7 +1637,7 @@
             "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77635,
+            "stars": 77634,
             "topics": []
           },
           "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1877,7 +1877,7 @@
                 "id": 275164995,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-10T09:51:32Z",
+                "last_commit": "2026-11-12T10:38:44Z",
                 "open_issues": 0,
                 "owner": "naver",
                 "repo": "kapture",
@@ -1911,7 +1911,7 @@
                 "open_issues": 174,
                 "owner": "cvg",
                 "repo": "Hierarchical-Localization",
-                "stars": 4266,
+                "stars": 4264,
                 "topics": [
                   "deep-learning",
                   "feature-matching",
@@ -1937,7 +1937,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-25T13:16:07Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "luigifreda",
                 "repo": "pyslam",
                 "stars": 3437,
@@ -1976,7 +1976,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T14:29:40.471Z",
+    "last_updated": "2026-11-12T15:22:10.921Z",
     "original_repository_info": {
       "archived": false,
       "description": "My personal note about local and global descriptor",
