@@ -1181,7 +1181,7 @@
                 "open_issues": 0,
                 "owner": "Relja",
                 "repo": "netvlad",
-                "stars": 613,
+                "stars": 614,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1312,7 +1312,7 @@
                 "open_issues": 1274,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77630,
+                "stars": 77631,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1381,7 +1381,7 @@
                 "open_issues": 1274,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77630,
+                "stars": 77631,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1637,7 +1637,7 @@
             "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77630,
+            "stars": 77631,
             "topics": []
           },
           "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1936,11 +1936,11 @@
                 "id": 179858671,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-15T21:56:11Z",
+                "last_commit": "2026-11-21T13:10:40Z",
                 "open_issues": 1,
                 "owner": "luigifreda",
                 "repo": "pyslam",
-                "stars": 3437,
+                "stars": 3438,
                 "topics": [
                   "3d-reconstruction",
                   "depth-estimation",
@@ -1976,7 +1976,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T15:33:06.632Z",
+    "last_updated": "2026-11-21T14:44:06.119Z",
     "original_repository_info": {
       "archived": false,
       "description": "My personal note about local and global descriptor",
