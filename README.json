@@ -1907,8 +1907,8 @@
                 "id": 280084324,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2025-12-10T10:00:19Z",
-                "open_issues": 174,
+                "last_commit": "2026-11-22T14:27:26Z",
+                "open_issues": 180,
                 "owner": "cvg",
                 "repo": "Hierarchical-Localization",
                 "stars": 4270,
@@ -1936,7 +1936,7 @@
                 "id": 179858671,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-21T13:10:40Z",
+                "last_commit": "2026-11-21T16:48:20Z",
                 "open_issues": 1,
                 "owner": "luigifreda",
                 "repo": "pyslam",
@@ -1976,7 +1976,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T14:44:06.119Z",
+    "last_updated": "2026-11-22T14:40:19.008Z",
     "original_repository_info": {
       "archived": false,
       "description": "My personal note about local and global descriptor",
