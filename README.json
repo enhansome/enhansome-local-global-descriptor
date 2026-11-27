@@ -775,7 +775,7 @@
                 "open_issues": 48,
                 "owner": "rpautrat",
                 "repo": "SuperPoint",
-                "stars": 2551,
+                "stars": 2552,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -980,7 +980,7 @@
                 "open_issues": 60,
                 "owner": "magicleap",
                 "repo": "SuperGluePretrainedNetwork",
-                "stars": 4110,
+                "stars": 4112,
                 "topics": [
                   "deep-learning",
                   "feature-matching",
@@ -1312,7 +1312,7 @@
                 "open_issues": 1271,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77637,
+                "stars": 77635,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1381,7 +1381,7 @@
                 "open_issues": 1271,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77637,
+                "stars": 77635,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1637,7 +1637,7 @@
             "open_issues": 1271,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77637,
+            "stars": 77635,
             "topics": []
           },
           "first_seen": "2026-08-28T18:47:05.447Z"
@@ -1911,7 +1911,7 @@
                 "open_issues": 175,
                 "owner": "cvg",
                 "repo": "Hierarchical-Localization",
-                "stars": 4271,
+                "stars": 4272,
                 "topics": [
                   "deep-learning",
                   "feature-matching",
@@ -1976,7 +1976,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T16:59:44.273Z",
+    "last_updated": "2026-11-27T16:45:46.090Z",
     "original_repository_info": {
       "archived": false,
       "description": "My personal note about local and global descriptor",
